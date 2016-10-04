@@ -1,0 +1,1177 @@
+﻿Log file open, 10/04/16 15:51:07
+LogInit:Display: Running engine for game: Attic1
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1914266451) SRandInit(-1914266451).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.069844
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3142249
+LogInit: Engine Version: 4.13.1-3142249+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3142249
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Sep 28 2016 02:12:12
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.04-21.51.07:462][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.04-21.51.07:462][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.04-21.51.07:475][  0]LogInit: Computer: eae-d-012
+[2016.10.04-21.51.07:475][  0]LogInit: User: u0840230
+[2016.10.04-21.51.07:475][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.10.04-21.51.07:475][  0]LogInit: High frequency timer resolution =3.513590 MHz
+[2016.10.04-21.51.07:476][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2016.10.04-21.51.07:476][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.04-21.51.07:476][  0]LogMemory: Process Physical Memory: 256.68 MB used, 256.68 MB peak
+[2016.10.04-21.51.07:476][  0]LogMemory: Process Virtual Memory: 260.12 MB used, 260.12 MB peak
+[2016.10.04-21.51.07:476][  0]LogMemory: Physical Memory: 4109.44 MB used, 32644.64 MB total
+[2016.10.04-21.51.07:476][  0]LogMemory: Virtual Memory: 623.23 MB used, 134217728.00 MB total
+[2016.10.04-21.51.07:670][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.10.04-21.51.09:207][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.04-21.51.09:240][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2016.10.04-21.51.09:240][  0]LogD3D11RHI:       8145/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.10.04-21.51.09:245][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2016.10.04-21.51.09:245][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.10.04-21.51.09:246][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.10.04-21.51.09:246][  0]LogD3D11RHI:       0/0/16322 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.10.04-21.51.09:246][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.04-21.51.09:250][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.04-21.51.09:250][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.04-21.51.09:250][  0]LogWindows: EnumDisplayDevices:
+[2016.10.04-21.51.09:250][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2016.10.04-21.51.09:250][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.10.04-21.51.09:251][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.10.04-21.51.09:251][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.10.04-21.51.09:251][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.10.04-21.51.09:251][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.10.04-21.51.09:251][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2016.10.04-21.51.09:251][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.10.04-21.51.09:251][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2016.10.04-21.51.09:251][  0]LogD3D11RHI:   Driver Version: 368.81 (internal:10.18.13.6881, unified:368.81)
+[2016.10.04-21.51.09:251][  0]LogD3D11RHI:      Driver Date: 7-10-2016
+[2016.10.04-21.51.09:251][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.10.04-21.51.09:263][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.04-21.51.09:273][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.10.04-21.51.09:273][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Intermediate/Shaders/WorkingDirectory/7636/).
+[2016.10.04-21.51.09:274][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0840230/AppData/Local/Temp/UnrealShaderWorkingDir/E4FF799F456FD07D386799A432C2FFE0/'.
+[2016.10.04-21.51.09:274][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.04-21.51.10:790][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.04-21.51.10:797][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.04-21.51.10:804][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.04-21.51.10:811][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.04-21.51.10:818][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.04-21.51.10:825][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.04-21.51.10:831][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.04-21.51.10:836][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.04-21.51.10:842][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.04-21.51.10:847][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.04-21.51.10:852][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.04-21.51.10:863][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.04-21.51.10:863][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.04-21.51.10:864][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.04-21.51.10:886][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.04-21.51.10:891][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.04-21.51.10:896][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.04-21.51.10:902][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.04-21.51.10:907][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.04-21.51.10:915][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.04-21.51.10:915][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.04-21.51.11:024][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.04-21.51.11:247][  0]LogDerivedDataCache: Loaded boot cache 0.22s 62MB C:/Users/u0840230/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.04-21.51.11:247][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/u0840230/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.04-21.51.11:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.04-21.51.11:247][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.04-21.51.11:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.04-21.51.11:247][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.04-21.51.11:268][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.04-21.51.11:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0840230/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.04-21.51.11:491][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.04-21.51.11:495][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.04-21.51.11:573][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.04-21.51.11:573][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.04-21.51.11:573][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.04-21.51.11:709][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.04-21.51.11:808][  0]LogTexture:Display: Building textures: RGBTable16x1_AssetViewer (BGRA8)
+[2016.10.04-21.51.11:809][  0]LogLinker:Warning: Can't find file '/Engine/EngineSky/EpicQuadPanorama_CC+EV1'
+[2016.10.04-21.51.11:809][  0]LogLinker: Can't find file '/Engine/EngineSky/EpicQuadPanorama_CC+EV1'
+[2016.10.04-21.51.12:219][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: attic1, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2143280593
+[2016.10.04-21.51.12:261][  0]LogAssetRegistry: FAssetRegistry took 0.0215 seconds to start up
+[2016.10.04-21.51.12:289][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.025625 seconds
+[2016.10.04-21.51.12:294][  0]LogUObjectArray: 29779 objects as part of root set at end of initial load.
+[2016.10.04-21.51.12:294][  0]LogUObjectAllocator: 6125824 out of 0 bytes used by permanent object pool.
+[2016.10.04-21.51.12:294][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.04-21.51.12:299][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.04-21.51.12:639][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.04-21.51.12:639][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.04-21.51.14:130][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2016.10.04-21.51.14:141][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.10.04-21.51.14:161][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.04-21.51.14:397][  0]SourceControl: Info Source control is disabled
+[2016.10.04-21.51.14:430][  0]SourceControl: Info Source control is disabled
+[2016.10.04-21.51.14:439][  0]SourceControl: Info Source control is disabled
+[2016.10.04-21.51.14:447][  0]SourceControl: Info Source control is disabled
+[2016.10.04-21.51.14:741][  0]LogEngine: Initializing Engine...
+[2016.10.04-21.51.14:742][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.10.04-21.51.14:867][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.04-21.51.14:884][  0]LogInit: XAudio2 using 'DELL UZ2315H-4 (3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.04-21.51.14:898][  0]LogInit: FAudioDevice initialized.
+[2016.10.04-21.51.14:932][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/u0840230/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.04-21.51.14:940][  0]LogInit: Texture streaming: Enabled
+[2016.10.04-21.51.14:962][  0]LogInit: Transaction tracking system initialized
+[2016.10.04-21.51.14:982][  0]BlueprintLog: New page: Editor Load
+[2016.10.04-21.51.15:052][  0]LocalizationService: Info Localization service is disabled
+[2016.10.04-21.51.15:130][  0]LogConsoleResponse:Display: 
+[2016.10.04-21.51.15:323][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.04-21.51.15:323][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.04-21.51.15:491][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0840230/Documents/Spooksters/Attic1/Content/' took 0.02s
+[2016.10.04-21.51.15:491][  0]SourceControl: Info Source control is disabled
+[2016.10.04-21.51.15:492][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.04-21.51.15:492][  0]LightingResults: New page: Lighting Build
+[2016.10.04-21.51.15:495][  0]MapCheck: New page: Map Check
+[2016.10.04-21.51.15:495][  0]LightingResults: New page: Lighting Build
+[2016.10.04-21.51.15:810][  0]LogMaterial: Missing cached shader map for material Modified_Walls, compiling. 
+[2016.10.04-21.51.15:855][  0]LogTexture:Display: Building textures: T_Dust_Particle_D (AutoDXT)
+[2016.10.04-21.51.15:869][  0]LogMaterial: Missing cached shader map for material Modified_Test, compiling. 
+[2016.10.04-21.51.15:888][  0]LogMaterial: Missing cached shader map for material Modified_Floor, compiling. 
+[2016.10.04-21.51.16:059][  0]LogTexture:Display: Building textures: T_TilingAsh_N (BC5)
+[2016.10.04-21.51.16:684][  0]LogTexture:Display: Building textures: T_TilingAsh_D (AutoDXT)
+[2016.10.04-21.51.19:156][  0]LogTexture:Display: Building textures: T_StoneWall_Ash (AutoDXT)
+[2016.10.04-21.51.21:466][  0]LogTexture:Display: Building textures: T_Metal_Oil (AutoDXT)
+[2016.10.04-21.51.22:282][  0]LogTexture:Display: Building textures: T_Lavalord_04_R (AutoDXT)
+[2016.10.04-21.51.24:592][  0]LogTexture:Display: Building textures: T_Lavalord_04 (AutoDXT)
+[2016.10.04-21.51.26:449][  0]LogTexture:Display: Building textures: T_Knight_Emis_LUT (AutoDXT)
+[2016.10.04-21.51.26:451][  0]LogTexture:Display: Building textures: T_Helm_Specmask_Shot (AutoDXT)
+[2016.10.04-21.51.26:573][  0]LogTexture:Display: Building textures: T_Char_lava_4_RM (AutoDXT)
+[2016.10.04-21.51.27:764][  0]LogTexture:Display: Building textures: T_Lavalord_04_N (BC5)
+[2016.10.04-21.51.28:097][  0]LogTexture:Display: Building textures: T_Lavalord_04_MetalMask (AutoDXT)
+[2016.10.04-21.51.28:343][  0]LogMaterial: Missing cached shader map for material M_lavahelm_MASTER, compiling. 
+[2016.10.04-21.51.28:375][  0]LogStaticMesh: Building static mesh SM_Lava_Knight...
+[2016.10.04-21.51.28:465][  0]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.10.04-21.51.29:731][  0]LogStaticMesh: Built static mesh [1.36s] /Game/Elemental/Characters/Character_LavaKnight/Mesh/SM_Lava_Knight.SM_Lava_Knight
+[2016.10.04-21.51.29:902][  0]LogTexture:Display: Building textures: T_Robo_N (BC5)
+[2016.10.04-21.51.30:314][  0]LogMaterial: Missing cached shader map for material M_Robo_02, compiling. 
+[2016.10.04-21.51.30:530][  0]LogTexture:Display: Building textures: T_Robo_D (AutoDXT)
+[2016.10.04-21.51.32:165][  0]LogMaterial: Missing cached shader map for material M_Robo_01, compiling. 
+[2016.10.04-21.51.32:230][  0]LogMaterial: Missing cached shader map for material 03_-_Default, compiling. 
+[2016.10.04-21.51.32:272][  0]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2016.10.04-21.51.32:403][  0]LogTexture:Display: Building textures: T_Shelving_M (AutoDXT)
+[2016.10.04-21.51.32:848][  0]LogMaterial: Missing cached shader map for material M_Shelving, compiling. 
+[2016.10.04-21.51.32:919][  0]LogMaterial: Missing cached shader map for material M_Painting_1, compiling. 
+[2016.10.04-21.51.32:958][  0]LogMaterial: Missing cached shader map for material M_FloorLamp_Mat, compiling. 
+[2016.10.04-21.51.32:986][  0]LogMaterial: Missing cached shader map for material M_DeskLamp_Mat, compiling. 
+[2016.10.04-21.51.33:035][  0]LogMaterial: Missing cached shader map for material M_Mug, compiling. 
+[2016.10.04-21.51.33:099][  0]LogMaterial: Missing cached shader map for material M_Book_Mat, compiling. 
+[2016.10.04-21.51.33:147][  0]LogTexture:Display: Building textures: orange_cloth (BGRA8)
+[2016.10.04-21.51.33:170][  0]LogMaterial: Missing cached shader map for material orange_cloth_Mat, compiling. 
+[2016.10.04-21.51.33:986][  0]LogTexture:Display: Building textures: iceman4_D (AutoDXT)
+[2016.10.04-21.51.43:344][  0]LogTexture:Display: Building textures: xnormalbakeid1_occlusion (G8)
+[2016.10.04-21.51.45:019][  0]LogTexture:Display: Building textures: T_Ice_Noise (AutoDXT)
+[2016.10.04-21.51.45:720][  0]LogTexture:Display: Building textures: T_PillarCracks_N (BC5)
+[2016.10.04-21.51.46:710][  0]LogTexture:Display: Building textures: xnormalbakeid1_normals (BC5)
+[2016.10.04-21.51.48:607][  0]LogTexture:Display: Building textures: T_CastleRockTile_01_D (AutoDXT)
+[2016.10.04-21.51.51:054][  0]LogTexture:Display: Building textures: T_IceVeins (AutoDXT)
+[2016.10.04-21.51.52:867][  0]LogTexture:Display: Building textures: T_CubeMaps_City01_Envmap (AutoDXT)
+[2016.10.04-21.51.55:194][  0]LogMaterial: Missing cached shader map for material M_IceGiant_Master, compiling. 
+[2016.10.04-21.51.55:414][  0]LogTexture:Display: Building textures: T_IceTiling01_D (AutoDXT)
+[2016.10.04-21.51.57:662][  0]LogMaterial: Missing cached shader map for material M_IceGiant_Master, compiling. 
+[2016.10.04-21.51.58:116][  0]LogTexture:Display: Building textures: xnormalbake_id4_occlusion (G8)
+[2016.10.04-21.52.00:295][  0]LogTexture:Display: Building textures: xnormalbake_id4_normals (BC5)
+[2016.10.04-21.52.02:727][  0]LogTexture:Display: Building textures: iceman1_D (AutoDXT)
+[2016.10.04-21.52.10:220][  0]LogMaterial: Missing cached shader map for material M_IceGiant_Master, compiling. 
+[2016.10.04-21.52.10:834][  0]LogTexture:Display: Building textures: xnormalbakeid2_normals (BC5)
+[2016.10.04-21.52.12:934][  0]LogTexture:Display: Building textures: xbnormalbakeid2_occlusion (G8)
+[2016.10.04-21.52.14:755][  0]LogTexture:Display: Building textures: iceman2_D (AutoDXT)
+[2016.10.04-21.52.22:218][  0]LogMaterial: Missing cached shader map for material M_IceGiant_Master, compiling. 
+[2016.10.04-21.52.22:650][  0]LogTexture:Display: Building textures: xnormalbake_id3_occlusion (AutoDXT)
+[2016.10.04-21.52.25:111][  0]LogTexture:Display: Building textures: xnormalbake_id3_normals (BC5)
+[2016.10.04-21.52.27:069][  0]LogTexture:Display: Building textures: iceman3_D (AutoDXT)
+[2016.10.04-21.52.34:488][  0]LogTexture:Display: Building textures: T_Door_N (BC5)
+[2016.10.04-21.52.34:791][  0]LogTexture:Display: Building textures: T_Door_M (DXT1)
+[2016.10.04-21.52.35:098][  0]LogStaticMesh: Building static mesh trash...
+[2016.10.04-21.52.35:107][  0]LogStaticMesh: Built static mesh [0.01s] /Game/KiteDemo/trash.trash
+[2016.10.04-21.52.35:109][  0]LogStaticMesh: Building static mesh Metal_Desk...
+[2016.10.04-21.52.35:153][  0]LogStaticMesh: Built static mesh [0.04s] /Game/KiteDemo/Metal_Desk.Metal_Desk
+[2016.10.04-21.52.35:264][  0]LogTexture:Display: Building textures: ScotsPineTall_01_Atlas_Billboards_Tex (AutoDXT)
+[2016.10.04-21.52.36:324][  0]LogTexture:Display: Building textures: ScotsPineTall_01_Atlas_Billboards_Normal_Tex (BC5)
+[2016.10.04-21.52.36:574][  0]LogMaterial: Missing cached shader map for material ScotsPineTall_01_Billboard_Mat, compiling. 
+[2016.10.04-21.52.37:034][  0]LogTexture:Display: Building textures: ScotsPine_01_Atlas_Tex (AutoDXT)
+[2016.10.04-21.52.41:674][  0]LogTexture:Display: Building textures: ScotsPine_01_Atlas_Specular_Tex (AutoDXT)
+[2016.10.04-21.52.43:397][  0]LogTexture:Display: Building textures: ScotsPine_01_Atlas_Normal_Tex (BC5)
+[2016.10.04-21.52.44:556][  0]LogMaterial: Missing cached shader map for material ScotsPine_01_Leaves_Mat, compiling. 
+[2016.10.04-21.52.44:685][  0]LogTexture:Display: Building textures: T_ScotsPine_Bark_03_D_Tex (AutoDXT)
+[2016.10.04-21.52.46:025][  0]LogTexture:Display: Building textures: T_ScotsPine_Bark_03_N (BC5)
+[2016.10.04-21.52.46:258][  0]LogMaterial: Missing cached shader map for material ScotsPine_01_Fronds_Mat, compiling. 
+[2016.10.04-21.52.46:763][  0]LogTexture:Display: Building textures: T_ScotsPine_Bark_01_Tex (AutoDXT)
+[2016.10.04-21.52.52:164][  0]LogTexture:Display: Building textures: T_ScotsPine_Bark_01_N_Tex (BC5)
+[2016.10.04-21.52.52:966][  0]LogMaterial: Missing cached shader map for material ScotsPine_01_Branches_Mat, compiling. 
+[2016.10.04-21.52.53:009][  0]LogMaterial: Missing cached shader map for material ScotsPine_01_Branches_2_Mat, compiling. 
+[2016.10.04-21.52.53:121][  0]LogStaticMesh: Building static mesh ScotsPineTall_01...
+[2016.10.04-21.54.04:781][  0]LogStaticMesh: Built static mesh [71.66s] /Game/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01.ScotsPineTall_01
+[2016.10.04-21.54.04:862][  0]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.10.04-21.54.04:873][  0]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.10.04-21.54.04:889][  0]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.10.04-21.54.05:015][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.10.04-21.54.05:019][  0]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.10.04-21.54.05:035][  0]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.10.04-21.54.05:148][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2016.10.04-21.54.05:167][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (BGRA8)
+[2016.10.04-21.54.05:168][  0]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.10.04-21.54.05:172][  0]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2016.10.04-21.54.05:297][  0]LogTexture:Display: Building textures: MetalDesk_n (BC5)
+[2016.10.04-21.54.05:806][  0]LogTexture:Display: Building textures: 1ca8beaefdea425b597a8abf63232607 (BGRA8)
+[2016.10.04-21.54.05:817][  0]LogMaterial: Missing cached shader map for material 1ca8beaefdea425b597a8abf63232607_Mat, compiling. 
+[2016.10.04-21.54.05:935][  0]LogTexture:Display: Building textures: 55d3d18e294c78e4e2cc260410531cb1 (AutoDXT)
+[2016.10.04-21.54.07:729][  0]LogMaterial: Missing cached shader map for material 55d3d18e294c78e4e2cc260410531cb1_Mat, compiling. 
+[2016.10.04-21.54.07:958][  0]LogTexture:Display: Building textures: MetalDesk_d (AutoDXT)
+[2016.10.04-21.54.10:119][  0]LogMaterial: Missing cached shader map for material MetalDesk_Mat, compiling. 
+[2016.10.04-21.54.10:156][  0]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2016.10.04-21.54.10:210][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2016.10.04-21.54.10:621][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.04-21.54.10:622][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.04-21.54.10:706][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 84.4ms to complete.
+[2016.10.04-21.54.10:706][  0]LogFileHelpers: Loading map 'Minimal_Default' took 175.215
+[2016.10.04-21.54.10:877][  0]LogCollectionManager: Loaded 0 collections in 0.002457 seconds
+[2016.10.04-21.54.10:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0840230/Documents/Spooksters/Attic1/Saved/Collections/' took 0.01s
+[2016.10.04-21.54.10:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0840230/Documents/Spooksters/Attic1/Content/Developers/u0840230/Collections/' took 0.01s
+[2016.10.04-21.54.10:922][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0840230/Documents/Spooksters/Attic1/Content/Collections/' took 0.01s
+[2016.10.04-21.54.10:922][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000008 seconds
+[2016.10.04-21.54.10:935][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2156 classes and 421 folders.
+[2016.10.04-21.54.10:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.04-21.54.10:941][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.04-21.54.10:942][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 12 classes and 0 folders.
+[2016.10.04-21.54.10:948][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.10.04-21.54.11:289][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.10.04-21.54.11:295][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2016.10.04-21.54.11:315][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.04-21.54.11:336][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.04-21.54.11:618][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.10.04-21.54.11:618][  0]LogLoad: (Engine Initialization) Total time: 184.91 seconds
+[2016.10.04-21.54.11:618][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.06 seconds
+[2016.10.04-21.54.11:618][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.10.04-21.54.11:618][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.10.04-21.54.11:628][  0]LogOcInput: OculusInput pre-init called
+[2016.10.04-21.54.11:662][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.10.04-21.54.11:937][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2016.10.04-21.54.12:176][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u0840230/Documents/Spooksters/Attic1/Content/' took 0.54s
+[2016.10.04-21.54.12:231][  2]LogAssetRegistry: Asset discovery search completed in 179.9916 seconds
+[2016.10.04-21.54.12:231][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.10.04-21.54.12:231][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2016.10.04-21.55.04:832][203]LogRenderer: Reallocating scene render targets to support 1208x600 (Frame:6192).
+[2016.10.04-21.55.04:875][204]LogRenderer: Reallocating scene render targets to support 1208x620 (Frame:6194).
+[2016.10.04-21.55.04:916][205]LogRenderer: Reallocating scene render targets to support 1208x656 (Frame:6196).
+[2016.10.04-21.55.04:961][206]LogRenderer: Reallocating scene render targets to support 1208x672 (Frame:6198).
+[2016.10.04-21.55.05:008][207]LogRenderer: Reallocating scene render targets to support 1208x688 (Frame:6200).
+[2016.10.04-21.55.05:047][208]LogRenderer: Reallocating scene render targets to support 1208x708 (Frame:6202).
+[2016.10.04-21.55.05:096][209]LogRenderer: Reallocating scene render targets to support 1208x724 (Frame:6204).
+[2016.10.04-21.55.05:142][210]LogRenderer: Reallocating scene render targets to support 1208x744 (Frame:6206).
+[2016.10.04-21.55.05:189][211]LogRenderer: Reallocating scene render targets to support 1208x760 (Frame:6208).
+[2016.10.04-21.55.05:237][212]LogRenderer: Reallocating scene render targets to support 1208x784 (Frame:6210).
+[2016.10.04-21.55.05:284][213]LogRenderer: Reallocating scene render targets to support 1208x824 (Frame:6212).
+[2016.10.04-21.55.05:327][214]LogRenderer: Reallocating scene render targets to support 1208x852 (Frame:6214).
+[2016.10.04-21.55.05:377][215]LogRenderer: Reallocating scene render targets to support 1208x876 (Frame:6216).
+[2016.10.04-21.55.05:422][216]LogRenderer: Reallocating scene render targets to support 1208x900 (Frame:6218).
+[2016.10.04-21.55.07:239][429]LogRenderer: Reallocating scene render targets to support 1212x900 (Frame:6391).
+[2016.10.04-21.55.07:291][430]LogRenderer: Reallocating scene render targets to support 1244x900 (Frame:6393).
+[2016.10.04-21.55.07:338][431]LogRenderer: Reallocating scene render targets to support 1308x900 (Frame:6395).
+[2016.10.04-21.55.07:405][432]LogRenderer: Reallocating scene render targets to support 1340x900 (Frame:6397).
+[2016.10.04-21.55.07:458][433]LogRenderer: Reallocating scene render targets to support 1392x900 (Frame:6399).
+[2016.10.04-21.55.07:519][434]LogRenderer: Reallocating scene render targets to support 1464x900 (Frame:6401).
+[2016.10.04-21.55.07:578][435]LogRenderer: Reallocating scene render targets to support 1504x900 (Frame:6403).
+[2016.10.04-21.55.13:997][199]LogRenderer: Reallocating scene render targets to support 1508x900 (Frame:7085).
+[2016.10.04-21.55.14:033][200]LogRenderer: Reallocating scene render targets to support 1528x900 (Frame:7087).
+[2016.10.04-21.55.14:074][201]LogRenderer: Reallocating scene render targets to support 1560x900 (Frame:7089).
+[2016.10.04-21.55.14:133][202]LogRenderer: Reallocating scene render targets to support 1596x900 (Frame:7091).
+[2016.10.04-21.55.14:193][203]LogRenderer: Reallocating scene render targets to support 1648x900 (Frame:7093).
+[2016.10.04-21.55.14:264][204]LogRenderer: Reallocating scene render targets to support 1684x900 (Frame:7095).
+[2016.10.04-21.55.14:330][205]LogRenderer: Reallocating scene render targets to support 1700x900 (Frame:7097).
+[2016.10.04-21.55.14:382][206]LogRenderer: Reallocating scene render targets to support 1720x900 (Frame:7099).
+[2016.10.04-21.55.14:440][207]LogRenderer: Reallocating scene render targets to support 1732x900 (Frame:7101).
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_3DS' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_3DS' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_FBX' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_FBX' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_MAX' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_MAX' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_OBJ' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Free_Chest_OBJ' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Textures/Free_Chest_TEXTURE' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:233][817]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Free Chest/Textures/Free_Chest_TEXTURE' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.04.55:255][817]LogAssetTools:Warning: Failed to import 'C:\Users\u0840230\AppData\Local\Temp\7zE8FB72666\Free Chest/Free_Chest_3DS.rar'. Unknown extension 'rar'.
+[2016.10.04-22.04.55:263][817]LogAssetTools:Warning: Failed to import 'C:\Users\u0840230\AppData\Local\Temp\7zE8FB72666\Free Chest/Free_Chest_FBX.rar'. Unknown extension 'rar'.
+[2016.10.04-22.04.55:269][817]LogAssetTools:Warning: Failed to import 'C:\Users\u0840230\AppData\Local\Temp\7zE8FB72666\Free Chest/Free_Chest_MAX.rar'. Unknown extension 'rar'.
+[2016.10.04-22.04.55:276][817]LogAssetTools:Warning: Failed to import 'C:\Users\u0840230\AppData\Local\Temp\7zE8FB72666\Free Chest/Free_Chest_OBJ.rar'. Unknown extension 'rar'.
+[2016.10.04-22.04.55:283][817]LogAssetTools:Warning: Failed to import 'C:\Users\u0840230\AppData\Local\Temp\7zE8FB72666\Free Chest/Textures/Free_Chest_TEXTURE.rar'. Unknown extension 'rar'.
+[2016.10.04-22.05.31:576][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/chest_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:576][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/chest_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/chest_dif' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/chest_dif' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/chest_nrm' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/chest_nrm' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/kiste_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/kiste_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/kiste_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/kiste_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/kiste_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:577][ 27]LogPackageName:Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/AtticAssets/Animated Chest/kiste_anm_lowpoly' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters:  
+[2016.10.04-22.05.31:584][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/chest_anm_lowpoly.fbx)
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: Model, ItemCount : 12
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: Geometry, ItemCount : 12
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: Material, ItemCount : 3
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: Video, ItemCount : 1
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: Pose, ItemCount : 1
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: GroupSelection, ItemCount : 2
+[2016.10.04-22.05.31:615][ 27]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.10.04-22.05.31:622][ 27]LogFbx: Loading FBX Scene from C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/chest_anm_lowpoly.fbx
+[2016.10.04-22.05.31:656][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.04-22.05.35:487][ 27]LogFbx: Loading FBX Scene from C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/chest_anm_lowpoly.fbx
+[2016.10.04-22.05.35:518][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [NurbsPath] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] NurbsPath (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [NurbsPath]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [Plane_002] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] Plane_002 (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [Plane_002]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [scharniere_unten_002] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 328184736.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_unten_002 (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [scharniere_unten_002]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [scharniere_oben_002] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 328182912.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben_002 (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [scharniere_oben_002]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [scharniere_unten_001] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 328184736.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_unten_001 (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [scharniere_unten_001]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [scharniere_oben_001] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 328186752.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben_001 (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [scharniere_oben_001]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [scharniere_unten] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 722254592.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_unten (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [scharniere_unten]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [scharniere_oben] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 722253232.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [scharniere_oben]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [kiste_oben] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] kiste_oben (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [kiste_oben]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [Plane_001] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 500440960.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] Plane_001 (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [Plane_001]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [Plane_003] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 500447360.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] Plane_003 (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [Plane_003]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [kiste_unten] 
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:520][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:520][ 27]LogFbx: 		[Node Attribute Child 1] kiste_unten (Type Mesh).
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node END [kiste_unten]
+[2016.10.04-22.05.35:520][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:520][ 27]LogFbx: Dumping Node START [NurbsPath] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] NurbsPath (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [NurbsPath]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_002] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_002 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_002]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_unten_002] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 328182048.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_unten_002 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_unten_002]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_oben_002] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 328181760.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben_002 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_oben_002]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_oben_002] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 328182048.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben_002 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_oben_002]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_unten_001] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 328182048.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_unten_001 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_unten_001]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_oben_001] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 328181184.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben_001 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_oben_001]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_oben_001] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 328182048.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben_001 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_oben_001]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_unten] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 722250512.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_unten (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_unten]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_oben] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 722248752.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_oben]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [kiste_oben] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] kiste_oben (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [kiste_oben]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_001] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500440960.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_001 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_001]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_003] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500447360.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_003 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_003]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [scharniere_oben] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 722250512.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] scharniere_oben (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [scharniere_oben]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [kiste_oben] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] kiste_oben (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [kiste_oben]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_001] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500440960.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_001 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_001]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_003] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500447360.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_003 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_003]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [kiste_oben] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] kiste_oben (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [kiste_oben]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_001] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500440960.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_001 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_001]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_003] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500447360.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_003 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_003]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_001] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_001 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_001]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_003] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500440960.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_003 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_003]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [Plane_003] 
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:521][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:521][ 27]LogFbx: 		[Node Attribute Child 1] Plane_003 (Type Mesh).
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node END [Plane_003]
+[2016.10.04-22.05.35:521][ 27]LogFbx: =================================================
+[2016.10.04-22.05.35:521][ 27]LogFbx: Dumping Node START [kiste_unten] 
+[2016.10.04-22.05.35:522][ 27]LogFbx: 	Total Deformer Count 500441472.
+[2016.10.04-22.05.35:522][ 27]LogFbx: 	Attribute () Type (4).
+[2016.10.04-22.05.35:522][ 27]LogFbx: 		[Node Attribute Child 1] kiste_unten (Type Mesh).
+[2016.10.04-22.05.35:522][ 27]LogFbx: Dumping Node END [kiste_unten]
+[2016.10.04-22.05.35:522][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_MAT__chest_dif_tga'
+[2016.10.04-22.05.35:522][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_MAT__chest_dif_tga'
+[2016.10.04-22.05.35:526][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_dif'
+[2016.10.04-22.05.35:526][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_dif'
+[2016.10.04-22.05.35:526][ 27]LogUObjectGlobals:Warning: Failed to find object 'Texture /Game/AtticAssets/chest_dif.chest_dif'
+[2016.10.04-22.05.35:538][ 27]LogTexture:Display: Building textures: chest_dif (AutoDXT)
+[2016.10.04-22.05.36:048][ 27]LogMaterial: Missing cached shader map for material chest_MAT__chest_dif_tga, compiling. 
+[2016.10.04-22.05.36:059][ 27]LogFbx: Triangulating skeletal mesh NurbsPath
+[2016.10.04-22.05.36:067][ 27]LogFbx:Warning: Bones digested - 1  Depth of hierarchy - 1
+[2016.10.04-22.05.36:068][ 27]LogSkeletalMesh: Section 0: 48 vertices, 1 active bones
+[2016.10.04-22.05.36:068][ 27]LogSkeletalMesh: Section 0: Material=0, 56 triangles
+[2016.10.04-22.05.36:069][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_PhysicsAsset'
+[2016.10.04-22.05.36:069][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_PhysicsAsset'
+[2016.10.04-22.05.36:069][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_NurbsPath_PhysicsAsset.chest_anm_lowpoly_NurbsPath_PhysicsAsset'
+[2016.10.04-22.05.36:145][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_Skeleton'
+[2016.10.04-22.05.36:145][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_Skeleton'
+[2016.10.04-22.05.36:145][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_NurbsPath_Skeleton.chest_anm_lowpoly_NurbsPath_Skeleton'
+[2016.10.04-22.05.36:147][ 27]LogFbx: Triangulating skeletal mesh Plane_002
+[2016.10.04-22.05.36:149][ 27]LogFbx:Warning: Bones digested - 1  Depth of hierarchy - 1
+[2016.10.04-22.05.36:149][ 27]LogSkeletalMesh: Section 0: 24 vertices, 1 active bones
+[2016.10.04-22.05.36:149][ 27]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2016.10.04-22.05.36:150][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_Plane_002_PhysicsAsset'
+[2016.10.04-22.05.36:151][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_Plane_002_PhysicsAsset'
+[2016.10.04-22.05.36:151][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_Plane_002_PhysicsAsset.chest_anm_lowpoly_Plane_002_PhysicsAsset'
+[2016.10.04-22.05.36:152][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_Plane_002_Skeleton'
+[2016.10.04-22.05.36:152][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_Plane_002_Skeleton'
+[2016.10.04-22.05.36:152][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_Plane_002_Skeleton.chest_anm_lowpoly_Plane_002_Skeleton'
+[2016.10.04-22.05.36:154][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/scharniere__chest_dif_tga'
+[2016.10.04-22.05.36:154][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/scharniere__chest_dif_tga'
+[2016.10.04-22.05.36:166][ 27]LogTexture:Display: Building textures: chest_dif (AutoDXT)
+[2016.10.04-22.05.36:747][ 27]LogMaterial: Missing cached shader map for material scharniere__chest_dif_tga, compiling. 
+[2016.10.04-22.05.36:758][ 27]LogFbx: Triangulating skeletal mesh scharniere_unten_002
+[2016.10.04-22.05.36:759][ 27]LogFbx: Triangulating skeletal mesh scharniere_oben_002
+[2016.10.04-22.05.36:768][ 27]LogFbx:Warning: Bones digested - 2  Depth of hierarchy - 2
+[2016.10.04-22.05.36:769][ 27]LogSkeletalMesh: Section 0: 321 vertices, 2 active bones
+[2016.10.04-22.05.36:770][ 27]LogSkeletalMesh: Section 0: Material=0, 144 triangles
+[2016.10.04-22.05.36:772][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset'
+[2016.10.04-22.05.36:772][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset'
+[2016.10.04-22.05.36:772][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset.chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset'
+[2016.10.04-22.05.36:773][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_Skeleton'
+[2016.10.04-22.05.36:774][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_Skeleton'
+[2016.10.04-22.05.36:774][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_Skeleton.chest_anm_lowpoly_scharniere_unten_002_Skeleton'
+[2016.10.04-22.05.36:775][ 27]LogFbx: Triangulating skeletal mesh scharniere_unten_001
+[2016.10.04-22.05.36:777][ 27]LogFbx: Triangulating skeletal mesh scharniere_oben_001
+[2016.10.04-22.05.36:786][ 27]LogFbx:Warning: Bones digested - 2  Depth of hierarchy - 2
+[2016.10.04-22.05.36:788][ 27]LogSkeletalMesh: Section 0: 341 vertices, 2 active bones
+[2016.10.04-22.05.36:788][ 27]LogSkeletalMesh: Section 0: Material=0, 144 triangles
+[2016.10.04-22.05.36:789][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset'
+[2016.10.04-22.05.36:789][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset'
+[2016.10.04-22.05.36:789][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset.chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset'
+[2016.10.04-22.05.36:791][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_Skeleton'
+[2016.10.04-22.05.36:791][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_Skeleton'
+[2016.10.04-22.05.36:791][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_Skeleton.chest_anm_lowpoly_scharniere_unten_001_Skeleton'
+[2016.10.04-22.05.36:794][ 27]LogFbx: Triangulating skeletal mesh scharniere_unten
+[2016.10.04-22.05.36:795][ 27]LogFbx: Triangulating skeletal mesh scharniere_oben
+[2016.10.04-22.05.36:805][ 27]LogFbx: Triangulating skeletal mesh kiste_oben
+[2016.10.04-22.05.36:825][ 27]LogFbx: Triangulating skeletal mesh Plane_001
+[2016.10.04-22.05.36:827][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_MAT'
+[2016.10.04-22.05.36:827][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_MAT'
+[2016.10.04-22.05.36:839][ 27]LogTexture:Display: Building textures: chest_dif (AutoDXT)
+[2016.10.04-22.05.37:427][ 27]LogMaterial: Missing cached shader map for material chest_MAT, compiling. 
+[2016.10.04-22.05.37:451][ 27]LogMaterial: Missing cached shader map for material chest_MAT__chest_dif_tga2, compiling. 
+[2016.10.04-22.05.37:467][ 27]LogFbx: Triangulating skeletal mesh Plane_003
+[2016.10.04-22.05.37:504][ 27]LogFbx:Warning: Bones digested - 5  Depth of hierarchy - 5
+[2016.10.04-22.05.37:512][ 27]LogSkeletalMesh: Section 0: 713 vertices, 4 active bones
+[2016.10.04-22.05.37:512][ 27]LogSkeletalMesh: Section 1: 4 vertices, 1 active bones
+[2016.10.04-22.05.37:512][ 27]LogSkeletalMesh: Section 2: 410 vertices, 1 active bones
+[2016.10.04-22.05.37:514][ 27]LogSkeletalMesh: Section 0: Material=0, 360 triangles
+[2016.10.04-22.05.37:514][ 27]LogSkeletalMesh: Section 1: Material=1, 2 triangles
+[2016.10.04-22.05.37:514][ 27]LogSkeletalMesh: Section 2: Material=2, 362 triangles
+[2016.10.04-22.05.37:515][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_PhysicsAsset'
+[2016.10.04-22.05.37:515][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_PhysicsAsset'
+[2016.10.04-22.05.37:515][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_PhysicsAsset.chest_anm_lowpoly_scharniere_unten_PhysicsAsset'
+[2016.10.04-22.05.37:517][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_Skeleton'
+[2016.10.04-22.05.37:517][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_Skeleton'
+[2016.10.04-22.05.37:517][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_Skeleton.chest_anm_lowpoly_scharniere_unten_Skeleton'
+[2016.10.04-22.05.37:519][ 27]LogFbx: Triangulating skeletal mesh kiste_unten
+[2016.10.04-22.05.37:528][ 27]LogFbx:Warning: Bones digested - 1  Depth of hierarchy - 1
+[2016.10.04-22.05.37:530][ 27]LogSkeletalMesh: Section 0: 144 vertices, 1 active bones
+[2016.10.04-22.05.37:530][ 27]LogSkeletalMesh: Section 0: Material=0, 92 triangles
+[2016.10.04-22.05.37:532][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_PhysicsAsset'
+[2016.10.04-22.05.37:532][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_PhysicsAsset'
+[2016.10.04-22.05.37:532][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_kiste_unten_PhysicsAsset.chest_anm_lowpoly_kiste_unten_PhysicsAsset'
+[2016.10.04-22.05.37:534][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_Skeleton'
+[2016.10.04-22.05.37:534][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_Skeleton'
+[2016.10.04-22.05.37:534][ 27]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/AtticAssets/chest_anm_lowpoly_kiste_unten_Skeleton.chest_anm_lowpoly_kiste_unten_Skeleton'
+[2016.10.04-22.05.37:538][ 27]FBXImport:Warning: Warning Could not find the bind pose.  It will use time 0 as bind pose. 
+[2016.10.04-22.05.37:538][ 27]FBXImport:Warning: Warning The bone size is too small to create Physics Asset 'chest_anm_lowpoly_NurbsPath_PhysicsAsset' from Skeletal Mesh 'chest_anm_lowpoly_NurbsPath'. You will have to create physics asset manually. 
+[2016.10.04-22.05.37:538][ 27]FBXImport:Warning: Warning Could not find the bind pose.  It will use time 0 as bind pose. 
+[2016.10.04-22.05.37:538][ 27]FBXImport:Warning: Warning Could not find the bind pose.  It will use time 0 as bind pose. 
+[2016.10.04-22.05.37:538][ 27]FBXImport:Warning: Warning Could not find the bind pose.  It will use time 0 as bind pose. 
+[2016.10.04-22.05.37:538][ 27]FBXImport:Warning: Warning Could not find the bind pose.  It will use time 0 as bind pose. 
+[2016.10.04-22.05.37:538][ 27]FBXImport:Warning: Warning Could not find the bind pose.  It will use time 0 as bind pose. 
+[2016.10.04-22.05.41:083][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/chest_dif.tga)
+[2016.10.04-22.05.45:102][ 27]LogTexture:Display: Building textures: chest_dif (AutoDXT)
+[2016.10.04-22.05.45:597][ 27]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/chest_nrm.tga)
+[2016.10.04-22.05.45:622][ 27]LogTexture:Display: Building textures: chest_nrm (BC5)
+[2016.10.04-22.05.45:716][ 27]LogAssetTools:Warning: Failed to import 'C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/kiste_anm_lowpoly.3ds'. Unknown extension '3ds'.
+[2016.10.04-22.05.45:722][ 27]LogAssetTools:Warning: Failed to import 'C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/kiste_anm_lowpoly.mtl'. Unknown extension 'mtl'.
+[2016.10.04-22.05.45:724][ 27]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/kiste_anm_lowpoly.obj)
+[2016.10.04-22.05.45:732][ 27]LogFbx: Loading FBX Scene from C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/kiste_anm_lowpoly.obj
+[2016.10.04-22.05.45:740][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.04-22.05.50:164][ 27]LogFbx: Loading FBX Scene from C:\Users\u0840230\AppData\Local\Temp\7zE8FB6E5F7\Animated Chest/kiste_anm_lowpoly.obj
+[2016.10.04-22.05.50:172][ 27]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.04-22.05.50:174][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/scharniere'
+[2016.10.04-22.05.50:174][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/scharniere'
+[2016.10.04-22.05.50:184][ 27]LogTexture:Display: Building textures: chest_dif (AutoDXT)
+[2016.10.04-22.05.50:667][ 27]LogMaterial: Missing cached shader map for material scharniere, compiling. 
+[2016.10.04-22.05.50:678][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_MAT_NONE'
+[2016.10.04-22.05.50:678][ 27]LogLinker:Warning: Can't find file '/Game/AtticAssets/chest_MAT_NONE'
+[2016.10.04-22.05.50:688][ 27]LogTexture:Display: Building textures: chest_dif (AutoDXT)
+[2016.10.04-22.05.51:267][ 27]LogMaterial: Missing cached shader map for material chest_MAT_NONE, compiling. 
+[2016.10.04-22.05.51:279][ 27]LogFbx:Warning: Triangulating static mesh default
+[2016.10.04-22.05.51:379][ 27]LogStaticMesh: Building static mesh kiste_anm_lowpoly...
+[2016.10.04-22.05.51:381][ 27]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.10.04-22.05.51:473][ 27]LogStaticMesh: Built static mesh [0.09s] /Game/AtticAssets/kiste_anm_lowpoly.kiste_anm_lowpoly
+[2016.10.04-22.05.51:484][ 27]FBXImport:Warning: Warning Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2016.10.04-22.05.51:589][ 28]LogMaterial:Warning: Material /Game/AtticAssets/scharniere__chest_dif_tga.scharniere__chest_dif_tga needed to have new flag set bUsedWithSkeletalMesh !
+[2016.10.04-22.05.51:609][ 28]LogMaterial: Missing cached shader map for material scharniere__chest_dif_tga, compiling. 
+[2016.10.04-22.05.51:640][ 28]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.04-22.05.51:658][ 29]LogMaterial:Warning: Material /Game/AtticAssets/chest_MAT__chest_dif_tga.chest_MAT__chest_dif_tga needed to have new flag set bUsedWithSkeletalMesh !
+[2016.10.04-22.05.51:664][ 29]LogMaterial: Missing cached shader map for material chest_MAT__chest_dif_tga, compiling. 
+[2016.10.04-22.05.51:698][ 29]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.04-22.05.51:720][ 30]LogMaterial:Warning: Material /Game/AtticAssets/chest_MAT.chest_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2016.10.04-22.05.51:726][ 30]LogMaterial: Missing cached shader map for material chest_MAT, compiling. 
+[2016.10.04-22.05.51:767][ 30]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.04-22.05.51:767][ 30]LogMaterial:Warning: Material /Game/AtticAssets/chest_MAT__chest_dif_tga2.chest_MAT__chest_dif_tga2 needed to have new flag set bUsedWithSkeletalMesh !
+[2016.10.04-22.05.51:769][ 30]LogMaterial: Missing cached shader map for material chest_MAT__chest_dif_tga2, compiling. 
+[2016.10.04-22.05.51:801][ 30]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.04-22.06.03:642][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.007
+[2016.10.04-22.06.03:644][874]OBJ SavePackage: Generating thumbnails for [6] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly] ([6] browsable assets)...
+[2016.10.04-22.06.03:655][874]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AtticAssets/chest_anm_lowpoly.chest_anm_lowpoly_NurbsPath]
+[2016.10.04-22.06.03:665][874]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AtticAssets/chest_anm_lowpoly.chest_anm_lowpoly_Plane_002]
+[2016.10.04-22.06.03:675][874]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AtticAssets/chest_anm_lowpoly.chest_anm_lowpoly_scharniere_unten_002]
+[2016.10.04-22.06.03:685][874]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AtticAssets/chest_anm_lowpoly.chest_anm_lowpoly_scharniere_unten_001]
+[2016.10.04-22.06.03:698][874]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AtticAssets/chest_anm_lowpoly.chest_anm_lowpoly_scharniere_unten]
+[2016.10.04-22.06.03:708][874]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AtticAssets/chest_anm_lowpoly.chest_anm_lowpoly_kiste_unten]
+[2016.10.04-22.06.03:708][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly]
+[2016.10.04-22.06.03:752][874]LogSavePackage: Save=41.61ms
+[2016.10.04-22.06.03:752][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_Auto167983C364A63502154ADC4986BF7541C.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_Auto1.uasset'
+[2016.10.04-22.06.03:753][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_Auto1.uasset
+[2016.10.04-22.06.03:753][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/chest_MAT__chest_dif_tga] ([1] browsable assets)...
+[2016.10.04-22.06.03:764][874]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AtticAssets/chest_MAT__chest_dif_tga.chest_MAT__chest_dif_tga]
+[2016.10.04-22.06.03:764][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_MAT__chest_dif_tga]
+[2016.10.04-22.06.03:779][874]LogSavePackage: Save=13.15ms
+[2016.10.04-22.06.03:779][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT__chest_dif_tga_Auto1EA32F6BD4FCE9208823D7B9D67688124.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT__chest_dif_tga_Auto1.uasset'
+[2016.10.04-22.06.03:780][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT__chest_dif_tga_Auto1.uasset
+[2016.10.04-22.06.03:780][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/chest_dif] ([1] browsable assets)...
+[2016.10.04-22.06.03:788][874]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AtticAssets/chest_dif.chest_dif]
+[2016.10.04-22.06.03:788][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_dif]
+[2016.10.04-22.06.03:800][874]LogSavePackage: Save=10.99ms
+[2016.10.04-22.06.03:800][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_dif_Auto1F878112246BC72491A34ABABCEDA830F.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_dif_Auto1.uasset'
+[2016.10.04-22.06.03:801][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_dif_Auto1.uasset
+[2016.10.04-22.06.03:802][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_Skeleton] ([1] browsable assets)...
+[2016.10.04-22.06.03:802][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_Skeleton]
+[2016.10.04-22.06.03:807][874]LogSavePackage: Save=3.14ms
+[2016.10.04-22.06.03:807][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_NurbsPath_Skeleton_Auto11598968B4094AA1A340145A3AE12C81F.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_Skeleton_Auto1.uasset'
+[2016.10.04-22.06.03:808][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_NurbsPath_Skeleton_Auto1.uasset
+[2016.10.04-22.06.03:808][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_Plane_002_PhysicsAsset] ([1] browsable assets)...
+[2016.10.04-22.06.03:808][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_Plane_002_PhysicsAsset]
+[2016.10.04-22.06.03:813][874]LogSavePackage: Save=3.46ms
+[2016.10.04-22.06.03:813][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_Plane_002_PhysicsAsset_Auto11808F047473C9301FF913FA361B835FA.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_Plane_002_PhysicsAsset_Auto1.uasset'
+[2016.10.04-22.06.03:814][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_Plane_002_PhysicsAsset_Auto1.uasset
+[2016.10.04-22.06.03:814][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_Plane_002_Skeleton] ([1] browsable assets)...
+[2016.10.04-22.06.03:814][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_Plane_002_Skeleton]
+[2016.10.04-22.06.03:818][874]LogSavePackage: Save=2.99ms
+[2016.10.04-22.06.03:818][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_Plane_002_Skeleton_Auto129E4143D47AA37971C888B9A7F9087EB.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_Plane_002_Skeleton_Auto1.uasset'
+[2016.10.04-22.06.03:819][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_Plane_002_Skeleton_Auto1.uasset
+[2016.10.04-22.06.03:819][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/scharniere__chest_dif_tga] ([1] browsable assets)...
+[2016.10.04-22.06.03:830][874]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AtticAssets/scharniere__chest_dif_tga.scharniere__chest_dif_tga]
+[2016.10.04-22.06.03:830][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/scharniere__chest_dif_tga]
+[2016.10.04-22.06.03:846][874]LogSavePackage: Save=14.50ms
+[2016.10.04-22.06.03:846][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/scharniere__chest_dif_tga_Auto1234DC5CF4CCE055D9E784692F516F579.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/scharniere__chest_dif_tga_Auto1.uasset'
+[2016.10.04-22.06.03:847][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/scharniere__chest_dif_tga_Auto1.uasset
+[2016.10.04-22.06.03:848][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset] ([1] browsable assets)...
+[2016.10.04-22.06.03:848][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset]
+[2016.10.04-22.06.03:853][874]LogSavePackage: Save=4.11ms
+[2016.10.04-22.06.03:853][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset_Auto1852DE33A40757BFE6760B5A6DCA082CA.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset_Auto1.uasset'
+[2016.10.04-22.06.03:854][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset_Auto1.uasset
+[2016.10.04-22.06.03:855][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_Skeleton] ([1] browsable assets)...
+[2016.10.04-22.06.03:855][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_Skeleton]
+[2016.10.04-22.06.03:859][874]LogSavePackage: Save=3.16ms
+[2016.10.04-22.06.03:859][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_002_Skeleton_Auto1174661FD4BAABD1C0F483D8618D25D0F.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_Skeleton_Auto1.uasset'
+[2016.10.04-22.06.03:861][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_002_Skeleton_Auto1.uasset
+[2016.10.04-22.06.03:861][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset] ([1] browsable assets)...
+[2016.10.04-22.06.03:861][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset]
+[2016.10.04-22.06.03:867][874]LogSavePackage: Save=4.39ms
+[2016.10.04-22.06.03:867][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset_Auto17CDB631140EAD2817F7218980153BBD7.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset_Auto1.uasset'
+[2016.10.04-22.06.03:868][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset_Auto1.uasset
+[2016.10.04-22.06.03:868][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_Skeleton] ([1] browsable assets)...
+[2016.10.04-22.06.03:868][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_Skeleton]
+[2016.10.04-22.06.03:873][874]LogSavePackage: Save=3.27ms
+[2016.10.04-22.06.03:873][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_001_Skeleton_Auto1577FD77F4A72B16CB0AA97A9F35FBFA3.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_Skeleton_Auto1.uasset'
+[2016.10.04-22.06.03:874][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_001_Skeleton_Auto1.uasset
+[2016.10.04-22.06.03:874][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/chest_MAT] ([1] browsable assets)...
+[2016.10.04-22.06.03:884][874]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AtticAssets/chest_MAT.chest_MAT]
+[2016.10.04-22.06.03:884][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_MAT]
+[2016.10.04-22.06.03:899][874]LogSavePackage: Save=13.30ms
+[2016.10.04-22.06.03:899][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT_Auto1A39517474CA2574649FE69BA78F2FBD9.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT_Auto1.uasset'
+[2016.10.04-22.06.03:900][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT_Auto1.uasset
+[2016.10.04-22.06.03:901][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/chest_MAT__chest_dif_tga2] ([1] browsable assets)...
+[2016.10.04-22.06.03:912][874]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AtticAssets/chest_MAT__chest_dif_tga2.chest_MAT__chest_dif_tga2]
+[2016.10.04-22.06.03:912][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_MAT__chest_dif_tga2]
+[2016.10.04-22.06.03:924][874]LogSavePackage: Save=10.70ms
+[2016.10.04-22.06.03:924][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT__chest_dif_tga2_Auto10AC153794A44B0872A73519EC01E8989.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT__chest_dif_tga2_Auto1.uasset'
+[2016.10.04-22.06.03:925][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT__chest_dif_tga2_Auto1.uasset
+[2016.10.04-22.06.03:925][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_PhysicsAsset] ([1] browsable assets)...
+[2016.10.04-22.06.03:925][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_PhysicsAsset]
+[2016.10.04-22.06.03:931][874]LogSavePackage: Save=4.83ms
+[2016.10.04-22.06.03:931][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_PhysicsAsset_Auto1AAC5C24342ACE14DC87AEC9B66EEF78B.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_PhysicsAsset_Auto1.uasset'
+[2016.10.04-22.06.03:933][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_PhysicsAsset_Auto1.uasset
+[2016.10.04-22.06.03:933][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_Skeleton] ([1] browsable assets)...
+[2016.10.04-22.06.03:934][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_Skeleton]
+[2016.10.04-22.06.03:939][874]LogSavePackage: Save=3.59ms
+[2016.10.04-22.06.03:939][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_Skeleton_Auto14985DFE649199DDC888B0090AE07DB8A.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_Skeleton_Auto1.uasset'
+[2016.10.04-22.06.03:940][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_scharniere_unten_Skeleton_Auto1.uasset
+[2016.10.04-22.06.03:940][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_PhysicsAsset] ([1] browsable assets)...
+[2016.10.04-22.06.03:940][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_PhysicsAsset]
+[2016.10.04-22.06.03:945][874]LogSavePackage: Save=3.83ms
+[2016.10.04-22.06.03:945][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_kiste_unten_PhysicsAsset_Auto1C675F1054B7DD3676C4D538BF57C12EC.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_PhysicsAsset_Auto1.uasset'
+[2016.10.04-22.06.03:946][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_PhysicsAsset_Auto1.uasset
+[2016.10.04-22.06.03:946][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_Skeleton] ([1] browsable assets)...
+[2016.10.04-22.06.03:946][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_Skeleton]
+[2016.10.04-22.06.03:950][874]LogSavePackage: Save=2.85ms
+[2016.10.04-22.06.03:950][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_kiste_unten_Skeleton_Auto168785A534217E038874D069454221462.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_Skeleton_Auto1.uasset'
+[2016.10.04-22.06.03:951][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_anm_lowpoly_kiste_unten_Skeleton_Auto1.uasset
+[2016.10.04-22.06.03:951][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/chest_nrm] ([1] browsable assets)...
+[2016.10.04-22.06.03:959][874]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AtticAssets/chest_nrm.chest_nrm]
+[2016.10.04-22.06.03:959][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_nrm]
+[2016.10.04-22.06.03:970][874]LogSavePackage: Save=10.01ms
+[2016.10.04-22.06.03:970][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_nrm_Auto1EE0D82F940AD9C430A36DD9E1208BBC6.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_nrm_Auto1.uasset'
+[2016.10.04-22.06.03:971][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_nrm_Auto1.uasset
+[2016.10.04-22.06.03:972][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/kiste_anm_lowpoly] ([1] browsable assets)...
+[2016.10.04-22.06.03:983][874]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AtticAssets/kiste_anm_lowpoly.kiste_anm_lowpoly]
+[2016.10.04-22.06.03:983][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/kiste_anm_lowpoly]
+[2016.10.04-22.06.03:994][874]LogSavePackage: Save=9.53ms
+[2016.10.04-22.06.03:994][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/kiste_anm_lowpoly_Auto1018493F44DDDB9C31BCDD38EC97AB431.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/kiste_anm_lowpoly_Auto1.uasset'
+[2016.10.04-22.06.03:995][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/kiste_anm_lowpoly_Auto1.uasset
+[2016.10.04-22.06.03:995][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/scharniere] ([1] browsable assets)...
+[2016.10.04-22.06.04:006][874]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AtticAssets/scharniere.scharniere]
+[2016.10.04-22.06.04:006][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/scharniere]
+[2016.10.04-22.06.04:021][874]LogSavePackage: Save=12.87ms
+[2016.10.04-22.06.04:021][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/scharniere_Auto14D637F1440D5323E1015AA995F576A59.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/scharniere_Auto1.uasset'
+[2016.10.04-22.06.04:021][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/scharniere_Auto1.uasset
+[2016.10.04-22.06.04:022][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AtticAssets/chest_MAT_NONE] ([1] browsable assets)...
+[2016.10.04-22.06.04:033][874]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AtticAssets/chest_MAT_NONE.chest_MAT_NONE]
+[2016.10.04-22.06.04:033][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/AtticAssets/chest_MAT_NONE]
+[2016.10.04-22.06.04:049][874]LogSavePackage: Save=14.17ms
+[2016.10.04-22.06.04:049][874]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT_NONE_Auto12D3E350745EBF658D85450A3199E8795.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT_NONE_Auto1.uasset'
+[2016.10.04-22.06.04:050][874]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/Autosaves/Game/AtticAssets/chest_MAT_NONE_Auto1.uasset
+[2016.10.04-22.06.04:050][874]LogFileHelpers: Auto-saving content packages took 0.408
+[2016.10.04-22.06.33:385][179]LogSavePackage: Save=10.27ms
+[2016.10.04-22.06.33:385][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_kiste_unten13D76ED54F814DD9599EAD918BA70C2E.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_kiste_unten.uasset'
+[2016.10.04-22.06.33:387][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_kiste_unten.uasset
+[2016.10.04-22.06.33:395][179]LogSavePackage: Save=4.06ms
+[2016.10.04-22.06.33:395][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_kiste_unten_PhysicsAsset5A8E2CE140782CE6A30009BA4A03A2B3.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_kiste_unten_PhysicsAsset.uasset'
+[2016.10.04-22.06.33:399][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_kiste_unten_PhysicsAsset.uasset
+[2016.10.04-22.06.33:407][179]LogSavePackage: Save=3.30ms
+[2016.10.04-22.06.33:407][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_kiste_unten_Skeleton971A0E7C4663BD087CB57FAA692AB242.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_kiste_unten_Skeleton.uasset'
+[2016.10.04-22.06.33:409][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_kiste_unten_Skeleton.uasset
+[2016.10.04-22.06.33:434][179]LogSavePackage: Save=9.22ms
+[2016.10.04-22.06.33:434][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_NurbsPath70E2194B4E1CCE4595B19E893B379860.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_NurbsPath.uasset'
+[2016.10.04-22.06.33:436][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_NurbsPath.uasset
+[2016.10.04-22.06.33:443][179]LogSavePackage: Save=3.15ms
+[2016.10.04-22.06.33:444][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_NurbsPath_Skeleton2AA7DD7641827918115DF8A2298768F4.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_NurbsPath_Skeleton.uasset'
+[2016.10.04-22.06.33:446][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_NurbsPath_Skeleton.uasset
+[2016.10.04-22.06.33:472][179]LogSavePackage: Save=9.72ms
+[2016.10.04-22.06.33:472][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_Plane_002595AABF644C37FDF0D4E038F3ACA465C.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_Plane_002.uasset'
+[2016.10.04-22.06.33:474][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_Plane_002.uasset
+[2016.10.04-22.06.33:481][179]LogSavePackage: Save=3.47ms
+[2016.10.04-22.06.33:481][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_Plane_002_PhysicsAsset36B770484B68BE87F1FAC1A914499BAA.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_Plane_002_PhysicsAsset.uasset'
+[2016.10.04-22.06.33:483][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_Plane_002_PhysicsAsset.uasset
+[2016.10.04-22.06.33:490][179]LogSavePackage: Save=3.05ms
+[2016.10.04-22.06.33:490][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_Plane_002_Skeleton4E95CB2E46012626342C7AAAB0CABA9C.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_Plane_002_Skeleton.uasset'
+[2016.10.04-22.06.33:492][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_Plane_002_Skeleton.uasset
+[2016.10.04-22.06.33:518][179]LogSavePackage: Save=11.76ms
+[2016.10.04-22.06.33:518][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten95E1A6F24AFC6DB7556538B868FC766B.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten.uasset'
+[2016.10.04-22.06.33:520][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten.uasset
+[2016.10.04-22.06.33:546][179]LogSavePackage: Save=9.87ms
+[2016.10.04-22.06.33:546][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_0015E544C2149C13048ACD1ACB69D2FA878.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_001.uasset'
+[2016.10.04-22.06.33:549][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_001.uasset
+[2016.10.04-22.06.33:559][179]LogSavePackage: Save=4.28ms
+[2016.10.04-22.06.33:559][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_001_PhysicsAssetD30E0CFB4E8B47CF6BEB5CBD71FE3F22.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset.uasset'
+[2016.10.04-22.06.33:561][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_001_PhysicsAsset.uasset
+[2016.10.04-22.06.33:569][179]LogSavePackage: Save=3.42ms
+[2016.10.04-22.06.33:569][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_001_Skeleton1E425A584AC6AFA69BC56C8DC570C518.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_001_Skeleton.uasset'
+[2016.10.04-22.06.33:571][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_001_Skeleton.uasset
+[2016.10.04-22.06.33:595][179]LogSavePackage: Save=9.88ms
+[2016.10.04-22.06.33:596][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_002F5EC772343D6E79B47AC57A7C588C04F.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_002.uasset'
+[2016.10.04-22.06.33:598][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_002.uasset
+[2016.10.04-22.06.33:606][179]LogSavePackage: Save=4.08ms
+[2016.10.04-22.06.33:606][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset9E255784400377B958BD2FB764F95E84.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset.uasset'
+[2016.10.04-22.06.33:609][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_002_PhysicsAsset.uasset
+[2016.10.04-22.06.33:618][179]LogSavePackage: Save=3.37ms
+[2016.10.04-22.06.33:618][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_002_SkeletonC6266BCA4DA2C49FB7571E8CACE119FD.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_002_Skeleton.uasset'
+[2016.10.04-22.06.33:620][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_002_Skeleton.uasset
+[2016.10.04-22.06.33:629][179]LogSavePackage: Save=4.73ms
+[2016.10.04-22.06.33:629][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_PhysicsAsset53F3B9434DEF2D3253C80F90B0AD7298.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_PhysicsAsset.uasset'
+[2016.10.04-22.06.33:631][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_PhysicsAsset.uasset
+[2016.10.04-22.06.33:638][179]LogSavePackage: Save=3.06ms
+[2016.10.04-22.06.33:638][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_anm_lowpoly_scharniere_unten_Skeleton2B26289844F6E3F8BFDBC7AEACDAB6AB.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_Skeleton.uasset'
+[2016.10.04-22.06.33:640][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_anm_lowpoly_scharniere_unten_Skeleton.uasset
+[2016.10.04-22.06.33:652][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AtticAssets/AnimChest/chest_dif" FILE="../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_dif.uasset" SILENT=true
+[2016.10.04-22.06.33:776][179]LogSavePackage: Save=122.13ms
+[2016.10.04-22.06.33:776][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_difFF68F5CE495CC86E008301871FBC48D0.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_dif.uasset'
+[2016.10.04-22.06.33:778][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_dif.uasset
+[2016.10.04-22.06.33:792][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AtticAssets/AnimChest/chest_MAT" FILE="../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT.uasset" SILENT=true
+[2016.10.04-22.06.33:807][179]LogSavePackage: Save=13.04ms
+[2016.10.04-22.06.33:807][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT6AFEBFE342659B78D36CBB85843C2A5A.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT.uasset'
+[2016.10.04-22.06.33:809][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT.uasset
+[2016.10.04-22.06.33:839][179]LogSavePackage: Save=12.81ms
+[2016.10.04-22.06.33:840][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT__chest_dif_tgaB258C6BD4D4331E2031EF3835242D57C.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT__chest_dif_tga.uasset'
+[2016.10.04-22.06.33:842][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT__chest_dif_tga.uasset
+[2016.10.04-22.06.33:868][179]LogSavePackage: Save=10.74ms
+[2016.10.04-22.06.33:868][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT__chest_dif_tga2A6428AB044944AD7931B70822703406E.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT__chest_dif_tga2.uasset'
+[2016.10.04-22.06.33:870][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT__chest_dif_tga2.uasset
+[2016.10.04-22.06.33:902][179]LogSavePackage: Save=13.70ms
+[2016.10.04-22.06.33:902][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_MAT_NONE2275B8774AC84C4232267DB0B553144B.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT_NONE.uasset'
+[2016.10.04-22.06.33:904][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_MAT_NONE.uasset
+[2016.10.04-22.06.33:914][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AtticAssets/AnimChest/chest_nrm" FILE="../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_nrm.uasset" SILENT=true
+[2016.10.04-22.06.34:028][179]LogSavePackage: Save=112.13ms
+[2016.10.04-22.06.34:028][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/chest_nrm636167B8478612712C2A1985A69AB275.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_nrm.uasset'
+[2016.10.04-22.06.34:030][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/chest_nrm.uasset
+[2016.10.04-22.06.34:054][179]LogSavePackage: Save=9.87ms
+[2016.10.04-22.06.34:054][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/kiste_anm_lowpolyF64E88F44735144DBEA239AA0AD3C7EC.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/kiste_anm_lowpoly.uasset'
+[2016.10.04-22.06.34:056][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/kiste_anm_lowpoly.uasset
+[2016.10.04-22.06.34:070][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AtticAssets/AnimChest/scharniere" FILE="../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/scharniere.uasset" SILENT=true
+[2016.10.04-22.06.34:085][179]LogSavePackage: Save=13.16ms
+[2016.10.04-22.06.34:085][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/scharniere457A63F345914ABCA75674A816DA15F9.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/scharniere.uasset'
+[2016.10.04-22.06.34:087][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/scharniere.uasset
+[2016.10.04-22.06.34:115][179]LogSavePackage: Save=12.84ms
+[2016.10.04-22.06.34:115][179]LogSavePackage: Moving '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Saved/scharniere__chest_dif_tgaA6FF4F624684A3805DFFC28BD5386411.tmp' to '../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/scharniere__chest_dif_tga.uasset'
+[2016.10.04-22.06.34:117][179]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u0840230/Documents/Spooksters/Attic1/Content/AtticAssets/AnimChest/scharniere__chest_dif_tga.uasset
+[2016.10.04-22.06.55:110][476]Cmd: TRANSACTION UNDO
+[2016.10.04-22.06.55:110][476]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.07.18:969][299]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (chest_anm_lowpoly_kiste_unten)
+[2016.10.04-22.07.38:102][527]Cmd: TRANSACTION UNDO
+[2016.10.04-22.07.38:102][527]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.07.58:093][867]Cmd: TRANSACTION UNDO
+[2016.10.04-22.07.58:093][867]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.07.59:158][984]Cmd: TRANSACTION UNDO
+[2016.10.04-22.07.59:158][984]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.08.17:304][ 11]Cmd: TRANSACTION UNDO
+[2016.10.04-22.08.17:304][ 11]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.08.17:534][ 35]Cmd: TRANSACTION UNDO
+[2016.10.04-22.08.17:534][ 35]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.08.23:948][752]Cmd: TRANSACTION UNDO
+[2016.10.04-22.08.23:948][752]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.08.24:152][773]Cmd: TRANSACTION UNDO
+[2016.10.04-22.08.24:152][773]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.08.25:772][940]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.25:772][940]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.26:184][976]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.26:198][976]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.29:510][368]Cmd: TRANSACTION UNDO
+[2016.10.04-22.08.29:511][368]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.08.29:511][368]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.29:511][368]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.37:285][276]Cmd: TRANSACTION UNDO
+[2016.10.04-22.08.37:285][276]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.08.37:286][276]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.37:287][276]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.08.37:882][331]Cmd: TRANSACTION UNDO
+[2016.10.04-22.08.37:882][331]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.08.42:449][841]LogActorFactory: Actor Factory created kiste_anm_lowpoly
+[2016.10.04-22.08.42:844][877]LogActorFactory: Actor Factory created kiste_anm_lowpoly
+[2016.10.04-22.09.44:627][810]Cmd: TRANSACTION UNDO
+[2016.10.04-22.09.44:627][810]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.09.44:950][841]Cmd: TRANSACTION UNDO
+[2016.10.04-22.09.44:950][841]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.09.46:510][  9]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.09.46:511][  9]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.09.46:820][ 36]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.09.46:834][ 36]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.10.13:131][138]Cmd: TRANSACTION UNDO
+[2016.10.04-22.10.13:131][138]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.10.13:132][138]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.10.13:132][138]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.10.04-22.10.42:424][511]Cmd: TRANSACTION UNDO
+[2016.10.04-22.10.42:424][511]LogEditorTransaction: Undo Move Actors
+[2016.10.04-22.10.42:839][551]Cmd: TRANSACTION UNDO
+[2016.10.04-22.10.42:839][551]LogEditorTransaction: Undo Move Actors
+[2016.10.04-22.10.43:202][590]Cmd: TRANSACTION UNDO
+[2016.10.04-22.10.43:202][590]LogEditorTransaction: Undo Move Actors
+[2016.10.04-22.10.44:751][768]Cmd: TRANSACTION UNDO
+[2016.10.04-22.10.44:751][768]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.10.45:498][855]Cmd: TRANSACTION UNDO
+[2016.10.04-22.10.45:498][855]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.11.08:278][487]Cmd: TRANSACTION UNDO
+[2016.10.04-22.11.08:278][487]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.11.09:864][663]Cmd: TRANSACTION UNDO
+[2016.10.04-22.11.09:864][663]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.11.11:349][833]Cmd: TRANSACTION UNDO
+[2016.10.04-22.11.11:349][833]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.11.13:202][ 49]Cmd: TRANSACTION UNDO
+[2016.10.04-22.11.13:202][ 49]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.11.17:814][556]LogActorFactory: Actor Factory created kiste_anm_lowpoly
+[2016.10.04-22.11.18:240][595]LogActorFactory: Actor Factory created kiste_anm_lowpoly
+[2016.10.04-22.11.24:820][372]Cmd: TRANSACTION UNDO
+[2016.10.04-22.11.24:820][372]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.11.25:325][421]Cmd: TRANSACTION UNDO
+[2016.10.04-22.11.25:326][421]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.12.09:757][480]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u0840230\AppData\Local\Temp\7zECA54002D\Free_Chest_FBX/ARK_FREE_CHEST.FBX)
+[2016.10.04-22.12.09:766][480]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.10.04-22.12.09:766][480]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.10.04-22.12.09:766][480]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.10.04-22.12.09:766][480]LogFbx: ItemName: Model, ItemCount : 12
+[2016.10.04-22.12.09:767][480]LogFbx: ItemName: NodeAttribute, ItemCount : 3
+[2016.10.04-22.12.09:767][480]LogFbx: ItemName: Geometry, ItemCount : 9
+[2016.10.04-22.12.09:767][480]LogFbx: ItemName: Material, ItemCount : 3
+[2016.10.04-22.12.09:767][480]LogFbx: ItemName: LayeredTexture, ItemCount : 1
+[2016.10.04-22.12.09:767][480]LogFbx: ItemName: Texture, ItemCount : 3
+[2016.10.04-22.12.09:767][480]LogFbx: ItemName: CollectionExclusive, ItemCount : 4
+[2016.10.04-22.12.09:767][480]LogFbx: ItemName: Video, ItemCount : 1
+[2016.10.04-22.12.09:771][480]LogFbx: Loading FBX Scene from C:\Users\u0840230\AppData\Local\Temp\7zECA54002D\Free_Chest_FBX/ARK_FREE_CHEST.FBX
+[2016.10.04-22.12.09:791][480]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.04-22.12.11:251][480]LogFbx: Loading FBX Scene from C:\Users\u0840230\AppData\Local\Temp\7zECA54002D\Free_Chest_FBX/ARK_FREE_CHEST.FBX
+[2016.10.04-22.12.11:271][480]LogFbx: FBX Scene Loaded Succesfully
+[2016.10.04-22.12.11:273][480]LogLinker:Warning: Can't find file '/Game/AtticAssets/Metal_Iron'
+[2016.10.04-22.12.11:273][480]LogLinker:Warning: Can't find file '/Game/AtticAssets/Metal_Iron'
+[2016.10.04-22.12.11:278][480]LogMaterial: Missing cached shader map for material Metal_Iron, compiling. 
+[2016.10.04-22.12.11:290][480]LogLinker:Warning: Can't find file '/Game/AtticAssets/Wood_Bare'
+[2016.10.04-22.12.11:290][480]LogLinker:Warning: Can't find file '/Game/AtticAssets/Wood_Bare'
+[2016.10.04-22.12.11:295][480]LogMaterial: Missing cached shader map for material Wood_Bare, compiling. 
+[2016.10.04-22.12.11:306][480]LogFbx:Warning: Triangulating static mesh Chest_Bottom_Key
+[2016.10.04-22.12.11:314][480]LogLinker:Warning: Can't find file '/Game/AtticAssets/Gem_Green'
+[2016.10.04-22.12.11:314][480]LogLinker:Warning: Can't find file '/Game/AtticAssets/Gem_Green'
+[2016.10.04-22.12.11:318][480]LogMaterial: Missing cached shader map for material Gem_Green, compiling. 
+[2016.10.04-22.12.11:355][480]LogStaticMesh: Building static mesh ARK_FREE_CHEST...
+[2016.10.04-22.12.12:076][480]LogStaticMesh: Built static mesh [0.72s] /Game/AtticAssets/ARK_FREE_CHEST.ARK_FREE_CHEST
+[2016.10.04-22.12.12:131][480]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.10.04-22.12.12:183][480]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\u0840230\AppData\Local\Temp\7zECA54002D\Free_Chest_FBX/Ark_Free_Chest_WoodRough_d.jpg)
+[2016.10.04-22.12.12:198][480]LogTexture:Display: Building textures: Ark_Free_Chest_WoodRough_d (AutoDXT)
+[2016.10.04-22.12.18:589][136]LogActorFactory: Actor Factory created ARK_FREE_CHEST
+[2016.10.04-22.12.20:028][295]LogActorFactory: Actor Factory created ARK_FREE_CHEST
+[2016.10.04-22.12.20:068][295]LogMaterial: Missing cached shader map for material Ark_Free_Chest_WoodRough_Mat, compiling. 
+[2016.10.04-22.12.20:089][295]LogMaterial:Warning: Material /Game/AtticAssets/Ark_Free_Chest_WoodRough_Mat.Ark_Free_Chest_WoodRough_Mat needed to have new flag set bUsedWithStaticLighting !
+[2016.10.04-22.12.20:092][295]LogMaterial: Missing cached shader map for material Ark_Free_Chest_WoodRough_Mat, compiling. 
+[2016.10.04-22.12.20:107][295]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.04-22.12.28:323][211]Cmd: TRANSACTION UNDO
+[2016.10.04-22.12.28:323][211]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.12.28:323][211]LogActorComponent: UnregisterComponent: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_234) Not registered. Aborting.
+[2016.10.04-22.12.28:326][211]LogPhysics:Warning: FDerivedDataPhysXCooker::BuildTriMesh: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_234' invalid (1610 verts, 0 indices).
+[2016.10.04-22.12.28:328][211]LogActorComponent: ~FComponentReregisterContext: (/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_234) Component already registered.
+[2016.10.04-22.12.30:592][464]LogActorFactory: Actor Factory created ARK_FREE_CHEST
+[2016.10.04-22.12.30:840][491]LogActorFactory: Actor Factory created ARK_FREE_CHEST
+[2016.10.04-22.13.02:616][254]Cmd: TRANSACTION UNDO
+[2016.10.04-22.13.02:616][254]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.13.02:982][292]Cmd: TRANSACTION UNDO
+[2016.10.04-22.13.02:982][292]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.13.03:298][326]Cmd: TRANSACTION UNDO
+[2016.10.04-22.13.03:298][326]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.13.03:889][396]Cmd: TRANSACTION UNDO
+[2016.10.04-22.13.03:890][396]LogEditorTransaction: Undo Scale Actors
+[2016.10.04-22.13.06:025][649]Cmd: TRANSACTION UNDO
+[2016.10.04-22.13.06:025][649]LogEditorTransaction: Undo Create Actors
+[2016.10.04-22.15.51:691][611]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (chest_anm_lowpoly_kiste_unten)
+[2016.10.04-22.16.42:306][467]LogMaterial: Missing cached shader map for material chest_MAT_NONE, compiling. 
+[2016.10.04-22.16.42:306][467]LogMaterial:Warning: Failed to compile Material /Game/AtticAssets/AnimChest/chest_MAT_NONE.chest_MAT_NONE for platform PCD3D_SM5, Default Material will be used in game.
+[2016.10.04-22.16.42:306][467]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2016.10.04-22.16.42:308][467]LogMaterial: Missing cached shader map for material scharniere, compiling. 
+[2016.10.04-22.16.42:308][467]LogMaterial:Warning: Failed to compile Material /Game/AtticAssets/AnimChest/scharniere.scharniere for platform PCD3D_SM5, Default Material will be used in game.
+[2016.10.04-22.16.42:308][467]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2016.10.04-22.16.42:318][467]LogMaterial: Missing cached shader map for material chest_MAT, compiling. 
+[2016.10.04-22.16.42:318][467]LogMaterial:Warning: Failed to compile Material /Game/AtticAssets/AnimChest/chest_MAT.chest_MAT for platform PCD3D_SM5, Default Material will be used in game.
+[2016.10.04-22.16.42:318][467]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2016.10.04-22.16.42:323][467]LogMaterial: Missing cached shader map for material scharniere__chest_dif_tga, compiling. 
+[2016.10.04-22.16.42:323][467]LogMaterial:Warning: Failed to compile Material /Game/AtticAssets/AnimChest/scharniere__chest_dif_tga.scharniere__chest_dif_tga for platform PCD3D_SM5, Default Material will be used in game.
+[2016.10.04-22.16.42:323][467]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2016.10.04-22.16.42:325][467]LogMaterial: Missing cached shader map for material chest_MAT__chest_dif_tga, compiling. 
+[2016.10.04-22.16.42:325][467]LogMaterial:Warning: Failed to compile Material /Game/AtticAssets/AnimChest/chest_MAT__chest_dif_tga.chest_MAT__chest_dif_tga for platform PCD3D_SM5, Default Material will be used in game.
+[2016.10.04-22.16.42:325][467]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2016.10.04-22.16.45:795][467]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2016.10.04-22.16.46:192][467]LogCrashTracker: 
+
+
+[2016.10.04-22.16.46:192][467]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2016.10.04-22.16.46:192][467]LogCrashTracker: 
+
+
+[2016.10.04-22.16.46:192][467]LogWindows:Error: === Critical error: ===
+[2016.10.04-22.16.46:192][467]LogWindows:Error: 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: Fatal error: [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 721] 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: Rendering thread exception:
+[2016.10.04-22.16.46:192][467]LogWindows:Error: Fatal error: [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsPlatformMisc.cpp] [Line: 422] 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: Pure virtual function being called
+[2016.10.04-22.16.46:192][467]LogWindows:Error: 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: KERNELBASE.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: VCRUNTIME140.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Engine.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-RenderCore.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-RenderCore.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-RenderCore.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-RenderCore.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: UE4Editor-Core.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: KERNEL32.DLL
+[2016.10.04-22.16.46:192][467]LogWindows:Error: ntdll.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: ntdll.dll
+[2016.10.04-22.16.46:192][467]LogWindows:Error: 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: 
+[2016.10.04-22.16.46:192][467]LogWindows:Error: 
+[2016.10.04-22.16.46:210][467]LogExit: Executing StaticShutdownAfterError
+[2016.10.04-22.16.46:216][467]LogWindows: FPlatformMisc::RequestExit(1)
+[2016.10.04-22.16.46:217][467]Log file closed, 10/04/16 16:16:46

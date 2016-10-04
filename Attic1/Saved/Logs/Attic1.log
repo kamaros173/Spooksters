@@ -868,4 +868,306 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2016.10.04-22.50.37:280][197]LogSavePackage: Save=6.53ms
 [2016.10.04-22.50.37:280][197]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/TeaserSequence_Auto3CF18F1174019DDAE8DF3FD914F815228.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/Autosaves/Game/TeaserSequence_Auto3.uasset'
 [2016.10.04-22.50.37:281][197]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/Autosaves/Game/TeaserSequence_Auto3.uasset
-[2016.10.04-22.50.37:281][197]
+[2016.10.04-22.50.37:281][197]LogFileHelpers: Auto-saving content packages took 0.011
+[2016.10.04-22.51.33:175][697]LogSavePackage: Save=1079.70ms
+[2016.10.04-22.51.33:175][697]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/Minimal_Default1D4B6D0D42311ABBBC6664B499CEDCFE.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.10.04-22.51.33:183][697]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.10.04-22.51.36:260][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeaserSequence" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset" SILENT=true
+[2016.10.04-22.51.36:330][ 55]LogSavePackage: Save=65.65ms
+[2016.10.04-22.51.36:330][ 55]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/TeaserSequence97CB044E459384E48459A9A2D3408880.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset'
+[2016.10.04-22.51.36:338][ 55]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset
+[2016.10.04-22.51.38:876][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeaserSequence" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset" SILENT=true
+[2016.10.04-22.51.38:897][346]LogSavePackage: Save=14.37ms
+[2016.10.04-22.51.38:897][346]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/TeaserSequence05DABF0B47CBA17A674A13B8B89DFE23.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset'
+[2016.10.04-22.51.38:903][346]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset
+[2016.10.04-22.51.39:577][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeaserSequence" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset" SILENT=true
+[2016.10.04-22.51.39:598][421]LogSavePackage: Save=14.60ms
+[2016.10.04-22.51.39:598][421]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/TeaserSequence6ABD887D4A1B46879BF6DF8B84A356CA.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset'
+[2016.10.04-22.51.39:652][421]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/TeaserSequence.uasset
+[2016.10.04-22.52.50:452][615]LogSavePackage: Save=1100.52ms
+[2016.10.04-22.52.50:452][615]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/Minimal_Default23A4703D4A73D8F8AC73449972C6BCC5.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.10.04-22.52.50:454][615]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.10.04-23.10.36:044][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AnimationSequence01" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Animations/AnimationSequence01.uasset" SILENT=true
+[2016.10.04-23.10.36:072][948]LogSavePackage: Save=24.44ms
+[2016.10.04-23.10.36:072][948]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/AnimationSequence01653C3AE14A69E48BF83721B07642EB56.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Animations/AnimationSequence01.uasset'
+[2016.10.04-23.10.36:125][948]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Animations/AnimationSequence01.uasset
+[2016.10.04-23.10.36:131][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Materials/BatteryBoy" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy.uasset" SILENT=true
+[2016.10.04-23.10.36:139][948]LogSavePackage: Save=4.18ms
+[2016.10.04-23.10.36:139][948]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/BatteryBoy904C67D7457846EBF6BC1E93199D537D.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy.uasset'
+[2016.10.04-23.10.36:146][948]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy.uasset
+[2016.10.04-23.10.36:151][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Materials/BatteryBoy_PhysicsAsset" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy_PhysicsAsset.uasset" SILENT=true
+[2016.10.04-23.10.36:289][948]LogSavePackage: Save=133.39ms
+[2016.10.04-23.10.36:289][948]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/BatteryBoy_PhysicsAsset79B577EE4B874D0A124911975FF145C9.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy_PhysicsAsset.uasset'
+[2016.10.04-23.10.36:297][948]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy_PhysicsAsset.uasset
+[2016.10.04-23.10.36:300][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Materials/BatteryBoy_Skeleton" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy_Skeleton.uasset" SILENT=true
+[2016.10.04-23.10.36:308][948]LogSavePackage: Save=5.05ms
+[2016.10.04-23.10.36:308][948]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/BatteryBoy_Skeleton0F17EB194713B34C601E87A1F883FFC5.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy_Skeleton.uasset'
+[2016.10.04-23.10.36:317][948]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/BatteryBoy_Skeleton.uasset
+[2016.10.04-23.10.36:335][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Materials/blinn1" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn1.uasset" SILENT=true
+[2016.10.04-23.10.36:381][948]LogSavePackage: Save=34.32ms
+[2016.10.04-23.10.36:381][948]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/blinn1C8E800F54DB8281F064039B873B46CA2.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn1.uasset'
+[2016.10.04-23.10.36:396][948]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn1.uasset
+[2016.10.04-23.10.36:410][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Materials/blinn2" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn2.uasset" SILENT=true
+[2016.10.04-23.10.36:426][948]LogSavePackage: Save=12.73ms
+[2016.10.04-23.10.36:426][948]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/blinn2604B9BF848A9A7459BE8DAA0481ABCE6.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn2.uasset'
+[2016.10.04-23.10.36:441][948]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn2.uasset
+[2016.10.04-23.10.36:456][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Materials/blinn3" FILE="E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn3.uasset" SILENT=true
+[2016.10.04-23.10.36:483][948]LogSavePackage: Save=23.46ms
+[2016.10.04-23.10.36:483][948]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/blinn3C51DDB10481B088E0ABFE99D8D40FBE6.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn3.uasset'
+[2016.10.04-23.10.36:489][948]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Character/Materials/blinn3.uasset
+[2016.10.04-23.10.36:761][949]Cmd: QUIT_EDITOR
+[2016.10.04-23.10.36:813][949]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.10.04-23.10.36:836][949]LogExit: Preparing to exit.
+[2016.10.04-23.10.37:630][949]LogExit: Editor shut down
+[2016.10.04-23.10.37:630][949]LogExit: Transaction tracking system shut down
+[2016.10.04-23.10.37:825][949]LogObj: Freed 0b from 0 cluster array pools.
+[2016.10.04-23.10.37:825][949]LogExit: Object subsystem successfully closed.
+[2016.10.04-23.10.37:839][949]LogD3D11RHI: Shutdown
+[2016.10.04-23.10.37:840][949]LogD3D11RHI: CleanupD3DDevice
+[2016.10.04-23.10.37:913][949]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.10.04-23.10.37:925][949]LogModuleManager: Shutting down and abandoning module SequencerWidgets (236)
+[2016.10.04-23.10.37:925][949]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (235)
+[2016.10.04-23.10.37:925][949]LogModuleManager: Shutting down and abandoning module CrashTracker (234)
+[2016.10.04-23.10.37:925][949]LogModuleManager: Shutting down and abandoning module SceneOutliner (233)
+[2016.10.04-23.10.37:925][949]LogModuleManager: Shutting down and abandoning module WidgetCarousel (232)
+[2016.10.04-23.10.37:925][949]LogModuleManager: Shutting down and abandoning module AddContentDialog (231)
+[2016.10.04-23.10.37:925][949]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.10.04-23.10.37:926][949]LogModuleManager: Shutting down and abandoning module GameplayTags (230)
+[2016.10.04-23.10.37:926][949]LogModuleManager: Shutting down and abandoning module EditorWidgets (229)
+[2016.10.04-23.10.37:926][949]LogModuleManager: Shutting down and abandoning module CollectionManager (228)
+[2016.10.04-23.10.37:926][949]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Collections/' was aborted.
+[2016.10.04-23.10.37:926][949]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/Developers/u0927597/Collections/' was aborted.
+[2016.10.04-23.10.37:926][949]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Saved/Collections/' was aborted.
+[2016.10.04-23.10.37:926][949]LogModuleManager: Shutting down and abandoning module StatsViewer (227)
+[2016.10.04-23.10.37:926][949]LogModuleManager: Shutting down and abandoning module FoliageEdit (226)
+[2016.10.04-23.10.37:926][949]LogModuleManager: Shutting down and abandoning module LandscapeEditor (225)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (224)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module ActorPickerMode (223)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module GeometryMode (222)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module TextureAlignMode (221)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module BspMode (220)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module HardwareSurvey (219)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (218)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module SequenceRecorder (217)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module AutomationWorker (216)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (215)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module PlacementMode (214)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (213)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (212)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (211)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (210)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (209)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module Media (208)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (207)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (206)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module CharacterAI (205)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module SmartSnapping (204)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module SessionServices (203)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module ViewportSnapping (202)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module ViewportInteraction (201)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module LogVisualizer (200)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (199)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module IntroTutorials (198)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (197)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (196)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (195)
+[2016.10.04-23.10.37:927][949]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (194)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (193)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (192)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (191)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module NiagaraEditor (190)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module MergeActors (189)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module SizeMap (188)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module TreeMap (187)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module ReferenceViewer (186)
+[2016.10.04-23.10.38:653][949]LogModuleManager: Shutting down and abandoning module LocalizationService (185)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (184)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module HardwareTargeting (183)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (182)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module UndoHistory (181)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module UserFeedback (180)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module XmlParser (179)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module Blutility (178)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (177)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (176)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module InputBindingEditor (175)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (174)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module SettingsEditor (173)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module ProjectLauncher (172)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module SessionFrontend (171)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module ProfilerClient (170)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (169)
+[2016.10.04-23.10.38:654][949]LogModuleManager: Shutting down and abandoning module DeviceManager (168)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module AutomationController (167)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module AutomationWindow (166)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module Layers (165)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (164)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module DetailCustomizations (163)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module PackagesDialog (162)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module AnimGraph (161)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module Persona (160)
+[2016.10.04-23.10.38:707][949]LogModuleManager: Shutting down and abandoning module Kismet (159)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module GraphEditor (158)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module ClassViewer (157)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module Toolbox (156)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module ModuleUI (155)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module MovieSceneTools (154)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module OutputLog (153)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module GammaUI (152)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module Documentation (151)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module Niagara (150)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (149)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module AnalyticsET (148)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module PortalServices (147)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module PortalRpc (146)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module MessagingRpc (145)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module GameplayDebugger (144)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module AITestSuite (143)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module AIModule (142)
+[2016.10.04-23.10.38:708][949]LogModuleManager: Shutting down and abandoning module ProfilerService (141)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module TaskGraph (140)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module SubstanceEditor (139)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module SlateRemote (138)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module SteamVRController (137)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module SteamVR (136)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (135)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (134)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module OculusLibrary (133)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module OculusInput (132)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (131)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module CableComponent (130)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (129)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (127)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module HTML5Networking (126)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (125)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module GeometryCache (124)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module AlembicLibrary (123)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module AlembicImporter (122)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module SuperSearch (121)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (120)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (119)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module PluginBrowser (118)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (117)
+[2016.10.04-23.10.38:822][949]LogModuleManager: Shutting down and abandoning module EpicSurvey (116)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module DesktopPlatform (115)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (114)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module UObjectPlugin (113)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (112)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (111)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module SourceControl (110)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module GitSourceControl (109)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (108)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (107)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (106)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module MeshPaint (105)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (104)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (103)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module HotReload (102)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module MainFrame (101)
+[2016.10.04-23.10.38:823][949]LogModuleManager: Shutting down and abandoning module LevelEditor (100)
+[2016.10.04-23.10.38:824][949]LogModuleManager: Shutting down and abandoning module ContentBrowser (99)
+[2016.10.04-23.10.38:825][949]LogModuleManager: Shutting down and abandoning module Paper2DEditor (98)
+[2016.10.04-23.10.38:825][949]LogModuleManager: Shutting down and abandoning module UdpMessaging (97)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module TcpMessaging (96)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module SubstanceCore (95)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.10.04-23.10.38:926][949]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.10.04-23.10.38:927][949]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.10.04-23.10.38:929][949]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.10.04-23.10.38:929][949]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.10.04-23.10.38:929][949]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.10.04-23.10.38:929][949]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.10.04-23.10.38:929][949]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.10.04-23.10.38:929][949]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.10.04-23.10.38:930][949]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.10.04-23.10.38:930][949]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Attic1/Content/' was aborted.
+[2016.10.04-23.10.38:930][949]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.10.04-23.10.38:930][949]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.10.04-23.10.39:437][949]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.10.04-23.10.39:437][949]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.10.04-23.10.39:437][949]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.10.04-23.10.39:437][949]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.10.04-23.10.39:459][949]LogDerivedDataCache: Shutdown
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.10.04-23.10.39:459][949]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.10.04-23.10.39:460][949]LogOnline:Display: Unloading online subsystem: NULL
+[2016.10.04-23.10.39:460][949]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.10.04-23.10.39:460][949]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.10.04-23.10.39:460][949]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63C2FE12-4D7B-11BE-8913-DC9971AF1753%7D&AppID=UEEditor.Rocket.Release&AppVersion=%2B%2BUE4%2BRelease-4.13-CL-3106830&UserID=07212de041b96999b9128d886c3e7ca6%7Cd50bdd38f8cc4500a1a63a6a6ad24359%7Cea0e45d6-74dc-4d0b-bd15-bfa5cf4c5eb1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.10.04-23.10.39:492][949]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.10.04-23.10.39:493][949]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.10.04-23.10.39:493][949]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.10.04-23.10.39:493][949]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.10.04-23.10.39:493][949]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.10.04-23.10.39:495][949]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.10.04-23.10.39:497][949]LogExit: Exiting.
+[2016.10.04-23.10.39:510][949]Log file closed, 10/04/16 17:10:39
