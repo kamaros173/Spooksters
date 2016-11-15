@@ -602,4 +602,317 @@ LogInit: Object subsystem initialized
 [2016.11.15-23.39.33:055][917]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animations/PoseTest.PoseTest'
 [2016.11.15-23.39.41:370][629]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/PoseTest.PoseTest
 [2016.11.15-23.40.50:800][ 93]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
-[2016.11.15-23.41.07:238][456]LogEditorViewport: Clicking 
+[2016.11.15-23.41.07:238][456]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (BatteryBoy2)
+[2016.11.15-23.41.07:305][462]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2016.11.15-23.41.09:584][699]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2016.11.15-23.41.11:717][872]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.15-23.41.36:617][283]LogLinker:Warning: Can't find file '/Game/Animations/PoseTest2'
+[2016.11.15-23.41.36:618][283]LogLinker:Warning: Can't find file '/Game/Animations/PoseTest2'
+[2016.11.15-23.41.36:618][283]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Animations/PoseTest2.PoseTest2'
+[2016.11.15-23.41.38:538][438]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/PoseTest2.PoseTest2
+[2016.11.15-23.42.25:477][444]LogEditorViewport: Clicking on Component (context menu): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2016.11.15-23.42.28:811][840]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMeshComponent0)
+[2016.11.15-23.42.31:785][194]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2016.11.15-23.42.31:802][194]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2016.11.15-23.42.34:435][509]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (BatteryBoy)
+[2016.11.15-23.42.34:610][525]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.15-23.48.02:346][598]LogSavePackage: Save=7742.72ms
+[2016.11.15-23.48.02:346][598]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Minimal_Default_Auto54F445BCF4024547298B24791FEB0D167.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2016.11.15-23.48.02:348][598]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap
+[2016.11.15-23.48.02:353][598]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 8.535
+[2016.11.15-23.48.02:353][598]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.535
+[2016.11.15-23.48.02:355][598]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/PoseTest] ([1] browsable assets)...
+[2016.11.15-23.48.02:370][598]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/PoseTest.PoseTest]
+[2016.11.15-23.48.02:370][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/PoseTest]
+[2016.11.15-23.48.02:370][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/PoseTest" FILE="E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/Animations/PoseTest_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2016.11.15-23.48.02:405][598]LogSavePackage: Save=30.60ms
+[2016.11.15-23.48.02:405][598]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/PoseTest_Auto59EB66F3D4C47C273498551BE7E68BEEA.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/Animations/PoseTest_Auto5.uasset'
+[2016.11.15-23.48.02:407][598]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/Animations/PoseTest_Auto5.uasset
+[2016.11.15-23.48.02:407][598]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/PoseTest2] ([1] browsable assets)...
+[2016.11.15-23.48.02:421][598]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/PoseTest2.PoseTest2]
+[2016.11.15-23.48.02:421][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/PoseTest2]
+[2016.11.15-23.48.02:421][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/PoseTest2" FILE="E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/Animations/PoseTest2_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2016.11.15-23.48.02:439][598]LogSavePackage: Save=14.72ms
+[2016.11.15-23.48.02:439][598]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/PoseTest2_Auto51FE74E664C507C70D354DF8D5651C93B.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/Animations/PoseTest2_Auto5.uasset'
+[2016.11.15-23.48.02:440][598]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Autosaves/Game/Animations/PoseTest2_Auto5.uasset
+[2016.11.15-23.48.02:440][598]LogFileHelpers: Auto-saving content packages took 0.086
+[2016.11.15-23.54.29:817][623]Cmd: TRANSACTION UNDO
+[2016.11.15-23.54.29:817][623]LogEditorTransaction: Undo Move Actors
+[2016.11.15-23.54.36:564][417]Cmd: TRANSACTION UNDO
+[2016.11.15-23.54.36:564][417]LogEditorTransaction: Undo Move Actors
+[2016.11.15-23.54.52:013][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/FallAndGetUp" FILE="E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/FallAndGetUp.uasset" SILENT=true
+[2016.11.15-23.54.52:445][ 20]LogSavePackage: Save=27.31ms
+[2016.11.15-23.54.52:445][ 20]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/FallAndGetUp7B4F5F5244C791113E7E1BADB8C38A1C.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/FallAndGetUp.uasset'
+[2016.11.15-23.54.52:452][ 20]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/FallAndGetUp.uasset
+[2016.11.15-23.54.52:468][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/PoseTest" FILE="E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/PoseTest.uasset" SILENT=true
+[2016.11.15-23.54.52:485][ 20]LogSavePackage: Save=14.10ms
+[2016.11.15-23.54.52:485][ 20]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/PoseTestB7065EE5406D74556399C9977C5625D5.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/PoseTest.uasset'
+[2016.11.15-23.54.52:493][ 20]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/PoseTest.uasset
+[2016.11.15-23.54.52:509][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/PoseTest2" FILE="E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/PoseTest2.uasset" SILENT=true
+[2016.11.15-23.54.52:526][ 20]LogSavePackage: Save=14.08ms
+[2016.11.15-23.54.52:526][ 20]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/PoseTest27159C0A44F1FCE00CEF828B4034F0951.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/PoseTest2.uasset'
+[2016.11.15-23.54.52:548][ 20]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Animations/PoseTest2.uasset
+[2016.11.15-23.54.52:553][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/FallAndGetUp" FILE="E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Sequences/FallAndGetUp.uasset" SILENT=true
+[2016.11.15-23.54.52:562][ 20]LogSavePackage: Save=5.55ms
+[2016.11.15-23.54.52:562][ 20]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/FallAndGetUpEAB6E7F344BA3B6A211C339321286BF6.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Sequences/FallAndGetUp.uasset'
+[2016.11.15-23.54.52:568][ 20]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Sequences/FallAndGetUp.uasset
+[2016.11.15-23.55.01:849][ 20]LogSavePackage: Save=7499.44ms
+[2016.11.15-23.55.01:849][ 20]LogSavePackage: Moving 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Minimal_DefaultA16F129E44C6B9F3EC96FCAE9E675BE5.tmp' to 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/StarterContent/Maps/Minimal_Default.umap'
+[2016.11.15-23.55.01:857][ 20]LogSavePackage:Display: Finished SavePackage E:/Machinima/Teaser/Repo/Spooksters/Library/Content/StarterContent/Maps/Minimal_Default.umap
+[2016.11.15-23.55.01:891][ 20]LogFileHelpers: Saving map 'Minimal_Default' took 9.320
+[2016.11.15-23.55.02:138][ 21]Cmd: QUIT_EDITOR
+[2016.11.15-23.55.02:172][ 21]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.15-23.55.02:196][ 21]LogExit: Preparing to exit.
+[2016.11.15-23.55.03:110][ 21]LogExit: Editor shut down
+[2016.11.15-23.55.03:111][ 21]LogExit: Transaction tracking system shut down
+[2016.11.15-23.55.03:298][ 21]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.15-23.55.03:298][ 21]LogExit: Object subsystem successfully closed.
+[2016.11.15-23.55.03:311][ 21]LogD3D11RHI: Shutdown
+[2016.11.15-23.55.03:311][ 21]LogD3D11RHI: CleanupD3DDevice
+[2016.11.15-23.55.03:388][ 21]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.15-23.55.03:400][ 21]LogModuleManager: Shutting down and abandoning module SequencerWidgets (236)
+[2016.11.15-23.55.03:400][ 21]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (235)
+[2016.11.15-23.55.03:400][ 21]LogModuleManager: Shutting down and abandoning module CrashTracker (234)
+[2016.11.15-23.55.03:400][ 21]LogModuleManager: Shutting down and abandoning module SceneOutliner (233)
+[2016.11.15-23.55.03:400][ 21]LogModuleManager: Shutting down and abandoning module WidgetCarousel (232)
+[2016.11.15-23.55.03:400][ 21]LogModuleManager: Shutting down and abandoning module AddContentDialog (231)
+[2016.11.15-23.55.03:400][ 21]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.15-23.55.03:401][ 21]LogModuleManager: Shutting down and abandoning module GameplayTags (230)
+[2016.11.15-23.55.03:401][ 21]LogModuleManager: Shutting down and abandoning module EditorWidgets (229)
+[2016.11.15-23.55.03:401][ 21]LogModuleManager: Shutting down and abandoning module CollectionManager (228)
+[2016.11.15-23.55.03:401][ 21]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Collections/' was aborted.
+[2016.11.15-23.55.03:401][ 21]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/Developers/u0927597/Collections/' was aborted.
+[2016.11.15-23.55.03:401][ 21]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Library/Saved/Collections/' was aborted.
+[2016.11.15-23.55.03:401][ 21]LogModuleManager: Shutting down and abandoning module StatsViewer (227)
+[2016.11.15-23.55.03:401][ 21]LogModuleManager: Shutting down and abandoning module FoliageEdit (226)
+[2016.11.15-23.55.03:401][ 21]LogModuleManager: Shutting down and abandoning module LandscapeEditor (225)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (224)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module ActorPickerMode (223)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module GeometryMode (222)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module TextureAlignMode (221)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module BspMode (220)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module HardwareSurvey (219)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (218)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module SequenceRecorder (217)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module AutomationWorker (216)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (215)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module PlacementMode (214)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (213)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (212)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (211)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (210)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (209)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module Media (208)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (207)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (206)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module CharacterAI (205)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module SmartSnapping (204)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module SessionServices (203)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module ViewportSnapping (202)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module ViewportInteraction (201)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module LogVisualizer (200)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (199)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module IntroTutorials (198)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (197)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (196)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (195)
+[2016.11.15-23.55.03:402][ 21]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (194)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (193)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (192)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (191)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module NiagaraEditor (190)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module MergeActors (189)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module SizeMap (188)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module TreeMap (187)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module ReferenceViewer (186)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module LocalizationService (185)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (184)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module HardwareTargeting (183)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (182)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module UndoHistory (181)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module UserFeedback (180)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module XmlParser (179)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module Blutility (178)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (177)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (176)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module InputBindingEditor (175)
+[2016.11.15-23.55.03:437][ 21]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (174)
+[2016.11.15-23.55.03:438][ 21]LogModuleManager: Shutting down and abandoning module SettingsEditor (173)
+[2016.11.15-23.55.03:438][ 21]LogModuleManager: Shutting down and abandoning module ProjectLauncher (172)
+[2016.11.15-23.55.03:438][ 21]LogModuleManager: Shutting down and abandoning module SessionFrontend (171)
+[2016.11.15-23.55.03:438][ 21]LogModuleManager: Shutting down and abandoning module ProfilerClient (170)
+[2016.11.15-23.55.03:438][ 21]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (169)
+[2016.11.15-23.55.03:438][ 21]LogModuleManager: Shutting down and abandoning module DeviceManager (168)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module AutomationController (167)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module AutomationWindow (166)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module Layers (165)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (164)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module DetailCustomizations (163)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module PackagesDialog (162)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module AnimGraph (161)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module Persona (160)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module Kismet (159)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module GraphEditor (158)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module ClassViewer (157)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module Toolbox (156)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module ModuleUI (155)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module MovieSceneTools (154)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module OutputLog (153)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module GammaUI (152)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module Documentation (151)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module Niagara (150)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (149)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module AnalyticsET (148)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module PortalServices (147)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module PortalRpc (146)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module MessagingRpc (145)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module GameplayDebugger (144)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module AITestSuite (143)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module AIModule (142)
+[2016.11.15-23.55.03:489][ 21]LogModuleManager: Shutting down and abandoning module ProfilerService (141)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module TaskGraph (140)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module SubstanceEditor (139)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module SlateRemote (138)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module SteamVRController (137)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module SteamVR (136)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (135)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (134)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module OculusLibrary (133)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module OculusInput (132)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (131)
+[2016.11.15-23.55.03:600][ 21]LogModuleManager: Shutting down and abandoning module CableComponent (130)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (129)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (127)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module HTML5Networking (126)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (125)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module GeometryCache (124)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module AlembicLibrary (123)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module AlembicImporter (122)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module SuperSearch (121)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (120)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (119)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module PluginBrowser (118)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (117)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module EpicSurvey (116)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module DesktopPlatform (115)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (114)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module UObjectPlugin (113)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (112)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (111)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module SourceControl (110)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module GitSourceControl (109)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (108)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (107)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (106)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module MeshPaint (105)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (104)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (103)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module HotReload (102)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module MainFrame (101)
+[2016.11.15-23.55.03:601][ 21]LogModuleManager: Shutting down and abandoning module LevelEditor (100)
+[2016.11.15-23.55.03:602][ 21]LogModuleManager: Shutting down and abandoning module ContentBrowser (99)
+[2016.11.15-23.55.03:603][ 21]LogModuleManager: Shutting down and abandoning module Paper2DEditor (98)
+[2016.11.15-23.55.03:603][ 21]LogModuleManager: Shutting down and abandoning module UdpMessaging (97)
+[2016.11.15-23.55.03:703][ 21]LogModuleManager: Shutting down and abandoning module TcpMessaging (96)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module SubstanceCore (95)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.15-23.55.03:804][ 21]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.15-23.55.03:806][ 21]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.15-23.55.03:806][ 21]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.15-23.55.03:806][ 21]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.15-23.55.03:806][ 21]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.15-23.55.03:806][ 21]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.15-23.55.03:806][ 21]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.15-23.55.03:806][ 21]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.15-23.55.03:806][ 21]LogDirectoryWatcher: A directory notification for 'E:/Machinima/Teaser/Repo/Spooksters/Library/Content/' was aborted.
+[2016.11.15-23.55.03:806][ 21]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.15-23.55.03:806][ 21]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.15-23.55.04:585][ 21]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.15-23.55.04:585][ 21]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.15-23.55.04:585][ 21]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.15-23.55.04:585][ 21]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.15-23.55.04:610][ 21]LogDerivedDataCache: Shutdown
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.15-23.55.04:610][ 21]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.15-23.55.04:611][ 21]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.15-23.55.04:611][ 21]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.15-23.55.04:611][ 21]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.15-23.55.04:611][ 21]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA10CBA91-46CC-03AF-0BA0-BDA5D31B5F50%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=dceeb1364f94f3cd1aaa298d3efef957%7Cd50bdd38f8cc4500a1a63a6a6ad24359%7Cea0e45d6-74dc-4d0b-bd15-bfa5cf4c5eb1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.15-23.55.04:629][ 21]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.15-23.55.04:629][ 21]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.15-23.55.04:629][ 21]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.15-23.55.04:630][ 21]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.15-23.55.04:630][ 21]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.15-23.55.04:631][ 21]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.15-23.55.04:632][ 21]LogExit: Exiting.
+[2016.11.15-23.55.04:645][ 21]Log file closed, 11/15/16 16:55:04
